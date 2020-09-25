@@ -6,6 +6,7 @@
 ## 猪队友篇
 
 * [猪小花](zhu-dui-you-pian/untitled.md)
+* [猪场里的笑话](zhu-dui-you-pian/zhu-chang-li-de-xiao-hua.md)
 
 ---
 
