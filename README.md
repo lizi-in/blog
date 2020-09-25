@@ -1,3 +1,7 @@
+---
+description: 愿天蓝，水清，食安心
+---
+
 # 关于
 
 ## Getting Super Powers
