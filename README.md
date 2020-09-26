@@ -2,7 +2,7 @@
 description: 愿天蓝，水清，食安心
 ---
 
-# 关于
+# 关于我们
 
 ## Getting Super Powers
 

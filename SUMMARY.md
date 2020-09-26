@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于](README.md)
+* [关于我们](README.md)
 * [联系我们](lian-xi-wo-men.md)
 * [FAQ](untitled.md)
 * [技术支持](https://sheldonl.com/about)
