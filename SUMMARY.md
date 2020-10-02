@@ -32,7 +32,7 @@
   * [监事的面子，副总的眼光](zhu-dui-you-xi-lie/untitled-2.md)
 * [社会演化和个体觉悟](she-hui-yan-hua-he-ge-ti-jue-wu.md)
 * [父母扬言杀死亲生女儿，因她参加环保志愿者活动](fu-mu-yang-yan-sha-si-qin-sheng-nv-er-yin-ta-can-jia-huan-bao-zhi-yuan-zhe-huo-dong.md)
-* [从北大附中学生围攻鹿鸣的脏话说起](cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-de-zang-hua-shuo-qi.md)
+* [从北大附中学生围攻鹿鸣说起](cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md)
 * [关于学习的经历](guan-yu-xue-xi-de-jing-li/README.md)
   * [以自己的教育经历谈谈感受](guan-yu-xue-xi-de-jing-li/guan-yu-k12-jiao-yu.md)
   * [怎样学英语](guan-yu-xue-xi-de-jing-li/untitled-1.md)
