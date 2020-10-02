@@ -21,7 +21,7 @@
   * [什么样的韭菜，就配什么样的镰刀！](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/shen-me-yang-de-jiu-cai-jiu-pei-shen-me-yang-de-lian-dao.md)
 * [网易猪场经历](wang-yi-zhu-chang-jing-li/README.md)
   * [看不清女神猪小花的真相](wang-yi-zhu-chang-jing-li/kan-bu-qing-nv-shen-zhu-xiao-hua-de-zhen-xiang.md)
-  * [与副总裁通信及辞职](wang-yi-zhu-chang-jing-li/untitled.md)
+  * [与副总裁通信及辞职](wang-yi-zhu-chang-jing-li/yu-fu-zong-cai-tong-xin-ji-ci-zhi.md)
   * [公关比董事会尽职](wang-yi-zhu-chang-jing-li/gong-guan-bi-dong-shi-hui-jin-zhi.md)
   * [给网易董事监事的信](wang-yi-zhu-chang-jing-li/gei-wang-yi-dong-shi-jian-shi-de-xin.md)
   * [网红猪小花的故事](wang-yi-zhu-chang-jing-li/wang-yi-zhu-chang-wang-hong-zhu-xiao-hua-de-gu-shi.md)
