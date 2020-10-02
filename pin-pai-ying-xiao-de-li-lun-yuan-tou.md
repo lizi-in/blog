@@ -41,7 +41,7 @@
 
 #### 相关文章
 
-{% page-ref page="nong-ye-shi-pin-guang-gao-jiu-cai-yuan-1/" %}
+{% page-ref page="nong-ye-shi-pin-guang-gao-jiu-cai-yuan/" %}
 
 
 
