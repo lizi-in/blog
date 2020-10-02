@@ -68,7 +68,7 @@ _为了尽快赶走小李，周X还真敢签字，签了就意味着他承认了
 
 小李同学被404的原文现保存在这里：
 
-{% page-ref page="wang-yi-zhu-chang-wang-hong-zhu-xiao-hua-de-gu-shi.md" %}
+{% page-ref page="wang-hong-zhu-xiao-hua-de-gu-shi.md" %}
 
 董事会风险内控的404法案没用，公关全网404删帖屏蔽反应却特别快，公关比董事会尽职多了。
 

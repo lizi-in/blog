@@ -24,7 +24,7 @@
   * [与副总裁通信及辞职](wang-yi-zhu-chang-jing-li/yu-fu-zong-cai-tong-xin-ji-ci-zhi.md)
   * [公关比董事会尽职](wang-yi-zhu-chang-jing-li/gong-guan-bi-dong-shi-hui-jin-zhi.md)
   * [给网易董事监事的信](wang-yi-zhu-chang-jing-li/gei-wang-yi-dong-shi-jian-shi-de-xin.md)
-  * [网红猪小花的故事](wang-yi-zhu-chang-jing-li/wang-yi-zhu-chang-wang-hong-zhu-xiao-hua-de-gu-shi.md)
+  * [网红猪小花的故事](wang-yi-zhu-chang-jing-li/wang-hong-zhu-xiao-hua-de-gu-shi.md)
 * [猪队友系列](zhu-dui-you-xi-lie/README.md)
   * [平庸之恶，乌合之众](zhu-dui-you-xi-lie/ping-yong-zhie-wu-he-zhi-zhong.md)
   * [从学校一直优秀到单位](zhu-dui-you-xi-lie/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
