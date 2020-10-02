@@ -1,29 +1,16 @@
 ---
-description: 愿天蓝，水清，食安心
+description: Lizi Insight - 里子洞察：撕掉面子，洞察里子
 ---
 
-# 关于我们
+# 关于
 
-## Getting Super Powers
+我们是一群斜杠青年，柔韧性好，跨学科专业背景的技术特种兵，能理想地完成超乎寻常的任务。
 
-Becoming a super hero is a fairly straight forward process:
+* 愿景：天蓝，水清，食安心
+* 使命：为社会企业和公益事业服务
+* 价值观：真实，科技，信仰，面向未来
 
-```
-$ give me super-powers
-```
+### 创作计划 <a id="chuang-zuo-ji-hua"></a>
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+写作丰富人生，协作众创记录。 朋友们，我们也想听听你们的相关故事和经历，你是怎么想，怎么干的？希望多收集一些案例，可以通过众创的方式来分析和解决一些问题，欢迎[**联系我们**](https://home.lizi.in) ****。
 
