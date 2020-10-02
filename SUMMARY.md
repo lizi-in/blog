@@ -16,7 +16,7 @@
   * [《品牌农业与市场》杂志](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/pin-pai-nong-ye-yu-shi-chang-za-zhi.md)
   * [品牌农业首席顾问 FL.](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/pin-pai-nong-ye-shou-xi-gu-wen-fl..md)
   * [董事长的经典造型和著作](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/dong-shi-chang-de-jing-dian-zao-xing-he-zhu-zuo.md)
-  * [《老大》](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/untitled-2.md)
+  * [《老大》](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/lao-da.md)
   * [首席顾问的成功案例](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/shou-xi-gu-wen-de-cheng-gong-an-li.md)
   * [什么样的韭菜，就配什么样的镰刀！](nong-ye-shi-pin-guang-gao-jiu-cai-yuan/shen-me-yang-de-jiu-cai-jiu-pei-shen-me-yang-de-lian-dao.md)
 * [网易猪场经历](wang-yi-zhu-chang-jing-li/README.md)
