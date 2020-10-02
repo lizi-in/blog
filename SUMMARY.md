@@ -45,6 +45,6 @@
 
 * [品牌营销的理论源头](pin-pai-ying-xiao-de-li-lun-yuan-tou.md)
 * [萝卜规则是啥？能阻止人类吵架撕逼互相攻击？](luo-bu-gui-ze-shi-sha-neng-zu-zhi-ren-lei-chao-jia-si-bi-hu-xiang-gong-ji.md)
-* [高效高质的工作/ 学习/ 休闲装备](gao-xiao-gao-zhi-liang-de-gong-zuo-xue-xi-xiu-xian-zhuang-bei.md)
+* [高效高质的工作/ 学习/ 休闲装备](gao-xiao-gao-zhi-de-gong-zuo-xue-xi-xiu-xian-zhuang-bei.md)
 * [影片推荐](ying-pian-tui-jian.md)
 
