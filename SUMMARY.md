@@ -29,7 +29,7 @@
   * [平庸之恶，乌合之众](zhu-dui-you-xi-lie/ping-yong-zhie-wu-he-zhi-zhong.md)
   * [从学校一直优秀到单位](zhu-dui-you-xi-lie/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
   * [平庸在于吃太饱还浪费](zhu-dui-you-xi-lie/ping-yong-zai-yu-chi-tai-bao-hai-lang-fei.md)
-  * [监事的面子，副总的眼光](zhu-dui-you-xi-lie/untitled-2.md)
+  * [监事的面子，副总的眼光](zhu-dui-you-xi-lie/jian-shi-de-mian-zi-fu-zong-de-yan-guang.md)
 * [社会演化和个体觉悟](she-hui-yan-hua-he-ge-ti-jue-wu.md)
 * [父母扬言杀死亲生女儿，因她参加环保志愿者活动](fu-mu-yang-yan-sha-si-qin-sheng-nv-er-yin-ta-can-jia-huan-bao-zhi-yuan-zhe-huo-dong.md)
 * [从北大附中学生围攻鹿鸣说起](cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md)

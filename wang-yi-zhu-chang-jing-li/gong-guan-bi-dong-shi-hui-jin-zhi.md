@@ -84,7 +84,7 @@ _为了尽快赶走小李，周X还真敢签字，签了就意味着他承认了
 
 谈话的更多细节在下面这篇文章里详述：
 
-{% page-ref page="../zhu-dui-you-xi-lie/untitled-2.md" %}
+{% page-ref page="../zhu-dui-you-xi-lie/jian-shi-de-mian-zi-fu-zong-de-yan-guang.md" %}
 
 这次谈话又刷新了我的三观，他们丝毫没有悔改的意识，而是把掌握越来越多真实情况的人当猪耍弄，继续玩花样炫口技，卑劣无下限，还企图离间我和小李的互相信任的关系，越是挑拨我们越是要抱团盘它。
 
