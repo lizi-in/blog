@@ -33,9 +33,9 @@
 * [社会演化和个体觉悟](she-hui-yan-hua-he-ge-ti-jue-wu.md)
 * [父母扬言杀死亲生女儿，因她参加环保志愿者活动](fu-mu-yang-yan-sha-si-qin-sheng-nv-er-yin-ta-can-jia-huan-bao-zhi-yuan-zhe-huo-dong.md)
 * [从北大附中学生围攻鹿鸣说起](cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md)
-* [关于学习的经历](guan-yu-xue-xi-de-jing-li/README.md)
-  * [以自己的教育经历谈谈感受](guan-yu-xue-xi-de-jing-li/guan-yu-k12-jiao-yu.md)
-  * [怎样学英语](guan-yu-xue-xi-de-jing-li/untitled-1.md)
+* [关于学习](guan-yu-xue-xi/README.md)
+  * [谈自己的学习经历](guan-yu-xue-xi/tan-zi-ji-de-xue-xi-jing-li.md)
+  * [怎样学英语](guan-yu-xue-xi/zen-yang-xue-ying-yu.md)
 * [税务局老王，别再打电话了！](shui-wu-ju-lao-wang-bie-zai-da-dian-hua-le.md)
 * [从SARS和武汉肺炎谈到吃的问题](cong-sars-he-wu-han-fei-yan-tan-dao-chi-de-wen-ti.md)
 
