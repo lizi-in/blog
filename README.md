@@ -1,5 +1,5 @@
 ---
-description: Lizi Insight - 里子洞察：撕掉面子，洞察里子
+description: Lizi Insight - 里子见解：撕掉面子，洞察里子
 ---
 
 # 关于
