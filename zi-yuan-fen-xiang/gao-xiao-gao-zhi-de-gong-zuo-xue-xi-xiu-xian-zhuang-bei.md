@@ -19,8 +19,7 @@
 
 小白对此流氓网络和软件毫无免疫力，即使网络老手也是经常一不小心就中招，说起抵制它们，有那么容易吗？难道除了这些流氓，就没有其他选择吗？当然，现在好用的网络平台和软件工具越来越多，不要担心没有替代品。抛弃流氓就好了，不使用它就是不参与其恶劣的游戏规则，流氓就拿你没办法。只是许多人活在惯性中，不愿意去接纳更好的平台和工具而已。
 
-网络是现实世界在虚拟世界的真实映射，现实世界是什么样的，网络里就会什么样，好坏都会被放大N倍。魔高一尺道高一丈，按照我们推荐一些方法和工具清单来，就可以规避流氓侵扰，实现人生翻转。  
-
+网络是现实世界在虚拟世界的真实映射，现实世界是什么样的，网络里就会什么样，好坏都会被放大N倍。魔高一尺道高一丈，按照我们推荐一些方法和工具清单来，就可以规避流氓侵扰，实现人生翻转。
 
 ## 珍惜资源，增强技能，提升认知
 
@@ -28,8 +27,7 @@
 
 比对待硬件更重要的是选择软件，不单要规避软件流氓的骚扰入侵的风险，还要充分利用网络时代带来的各种便利，提高个人或组织的工作协同效率和质量，不仅仅是用于工作，学习和休闲也需要效率质量，在此推荐一些与以往不同的高效高质量的工作/学习/休闲装备。
 
-网络硬件和软件只是一堆冷冰冰的机器和毫无意识的技术，要让其像生物一样具备有机的生命力，还得有一些良好配合使用的附加条件，包括人类自然语言，各种机器语言，逻辑理性，艺术审美，科学技术，文明信仰，独立思维，组织管理，议事规则，协议契约等等，因为既然用网络，你就不是一个人在玩单机游戏，而是有一群人和你的跨时空在线协同，这就是每天发生在与现实世界平行的另一个维度的网络世界里的真实场景，精彩或灾难。  
-
+网络硬件和软件只是一堆冷冰冰的机器和毫无意识的技术，要让其像生物一样具备有机的生命力，还得有一些良好配合使用的附加条件，包括人类自然语言，各种机器语言，逻辑理性，艺术审美，科学技术，文明信仰，独立思维，组织管理，议事规则，协议契约等等，因为既然用网络，你就不是一个人在玩单机游戏，而是有一群人和你的跨时空在线协同，这就是每天发生在与现实世界平行的另一个维度的网络世界里的真实场景，精彩或灾难。
 
 ## 语言
 
@@ -37,8 +35,7 @@
 至少要精通一种语言，即母语中文的正常书写，阅读，口述的要求，达到合格的中学毕业水平足够；
 
 英语  
-听说读写能力不做要求，由于网页和语音翻译软件越来越好用，但作为必要的加分项，可以帮助看到外面的世界，扩大资讯量很多倍以上，高效工作的基础离不开熟练使用互联网搜索和英语阅读的资讯搜集能力；  
-
+听说读写能力不做要求，由于网页和语音翻译软件越来越好用，但作为必要的加分项，可以帮助看到外面的世界，扩大资讯量很多倍以上，高效工作的基础离不开熟练使用互联网搜索和英语阅读的资讯搜集能力；
 
 ## 学习
 
@@ -54,8 +51,7 @@ Quora，全球第一知识问答网 [https://www.quora.com/](https://www.quora.c
 
 出海搜一下能找到很多国外好的MOOC，例如[https://www.edx.org/](https://www.edx.org/)，[https://www.khanacademy.org/](https://www.khanacademy.org/)， coursera是我第一个用的，也是最常用的平台。
 
-类似的课程管理平台开发框架有：[https://www.sakailms.org/](https://www.sakailms.org/), [https://piazza.com/](https://piazza.com/)。  
-
+类似的课程管理平台开发框架有：[https://www.sakailms.org/](https://www.sakailms.org/), [https://piazza.com/](https://piazza.com/)。
 
 ### **演讲**
 
@@ -63,8 +59,7 @@ TED，科普讲座短视频。[http://www.ted.com](http://www.ted.com/)。
 
 PechaKucha，小TED，遵循 20秒/张 x 20张的演讲格式，起源于日本已经传播至全世界数百万参与者。 [https://www.pechakucha.com/](https://www.pechakucha.com/)
 
-CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg](https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg)  
-
+CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg](https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg)
 
 ## 硬件和操作系统
 
@@ -74,12 +69,12 @@ CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.we
 
 ### 电脑
 
-- 即使领导层，也要习惯用电脑办公，并使用例如 Quip 或 GoogleDrive之类的办公套件，在电脑的屏幕上能看得清文档目录结构，方便理清思路，这些在手机上是很不方便的。
+* 即使领导层，也要习惯用电脑办公，并使用例如 Quip 或 GoogleDrive之类的办公套件，在电脑的屏幕上能看得清文档目录结构，方便理清思路，这些在手机上是很不方便的。
 
 ### 操作系统
 
-- 本篇所列的软件都有可以在 win10 和 MacOS 上使用，为了工作便捷选自己熟悉的系统比较好；
-- 个人建议尽可能使用苹果，或Linux操作系统，我试过Manjaro，听说软件库很多，但是由于操作不方便，我还是放弃了，选用了Ubuntu，感觉非常棒，社区支持多，用户多能找到教程也多；
+* 本篇所列的软件都有可以在 win10 和 MacOS 上使用，为了工作便捷选自己熟悉的系统比较好；
+* 个人建议尽可能使用苹果，或Linux操作系统，我试过Manjaro，听说软件库很多，但是由于操作不方便，我还是放弃了，选用了Ubuntu，感觉非常棒，社区支持多，用户多能找到教程也多；
 
 ### 私服
 
@@ -91,8 +86,7 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 ### 其他
 
 电子书：墨水屏选用kindle，省去纸质版书，2019年最新版基础款500 - 600¥；  
-画板：Wacom入门级，Ps神器，2018年最新版基础款400 - 500¥ ；  
-
+画板：Wacom入门级，Ps神器，2018年最新版基础款400 - 500¥ ；
 
 ## 信息安全- 特别Tips
 
@@ -100,19 +94,17 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 无论身在何处，请重视信息安全和隐私保护，遵守当地法规，不公开在网络交流敏感话题，请勿将重要工作文件通过一般聊天软件和邮箱传递，问题咨询请私信博主。
 
-
-
 ## **浏览器**
 
 建议不要用国产的浏览器，广告太多，使用谷歌chrome浏览器或者火狐浏览器。
 
 **chrome.com，** 搭上梯子，注册一个google账号，完美。
 
-**firefox.com 不是 firefox.com.cn**  否则可能会被挂满广告的网站默认首页，或可以下载[台湾的繁体版](https://www.mozilla.org/zh-TW/firefox/new/?redirect_source=firefox-com)。
+**firefox.com 不是 firefox.com.cn** 否则可能会被挂满广告的网站默认首页，或可以下载[台湾的繁体版](https://www.mozilla.org/zh-TW/firefox/new/?redirect_source=firefox-com)。
 
 ## 搜索引擎
 
-**Google，**需要梯子配合才能使用； 
+**Google，**需要梯子配合才能使用；
 
 **Duckduckgo，**需要梯子配合才能使用，默认隐私保护，不保存任何浏览记录，除非你更改配置；
 
@@ -142,8 +134,7 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ## **在线笔记保存**
 
-**Diigo**\(Digest of Internet Information, Groups and Other stuff\) [https://www.diigo.com/](https://www.diigo.com/) 是一款有力的资源搜索与管理工具,一个知识分享的平台。方便在网页做笔记，整理记录。   
-
+**Diigo**\(Digest of Internet Information, Groups and Other stuff\) [https://www.diigo.com/](https://www.diigo.com/) 是一款有力的资源搜索与管理工具,一个知识分享的平台。方便在网页做笔记，整理记录。
 
 ## **云存储**
 
@@ -157,8 +148,7 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 [https://www.dropbox.com/](https://www.dropbox.com/)
 
 **Box**企业级应用开始，支持大量公益组织  
-[https://www.box.org/](https://www.box.org/)  
-
+[https://www.box.org/](https://www.box.org/)
 
 ## **文件与远程协作**
 
@@ -166,20 +156,17 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 **有许多可选软件，例举一小部分：**
 
-**Google docs** [**https://docs.google.com**](https://docs.google.com/)，google drive 下的一款小工具，10多年前就已经成熟了，需要梯子和谷歌账号； 
+**Google docs** [**https://docs.google.com**](https://docs.google.com/)，google drive 下的一款小工具，10多年前就已经成熟了，需要梯子和谷歌账号；
 
-**Quip** [**https://quip.com/**](https://quip.com/) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，不需要梯子； 
+**Quip** [**https://quip.com/**](https://quip.com/) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，不需要梯子；
 
-**Shimo，国产，在国外用起来不方便。**一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论，让你与他人轻松完成协作撰稿、方案讨论、会议记录和资料 ... [https://shimo.im/desktop](https://shimo.im/desktop)  
-
+**Shimo，国产，在国外用起来不方便。**一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论，让你与他人轻松完成协作撰稿、方案讨论、会议记录和资料 ... [https://shimo.im/desktop](https://shimo.im/desktop)
 
 ### **图片类**
 
 **Flickr** [https://www.flickr.com/](https://www.flickr.com/) 图片作品集保存与分享，或google drive
 
-**在线图片优化器** [https://ezgif.com/](https://ezgif.com/),  格式转换，压缩图片大小。通常上传网站的图片有大小限制以保证加载速度，**如果没必要使用高清大图，那么图片大小超过300k的建议进行优化。方法：将 png 等转 jpg, jpg 还可以继续压缩。**
-
-
+**在线图片优化器** [https://ezgif.com/](https://ezgif.com/), 格式转换，压缩图片大小。通常上传网站的图片有大小限制以保证加载速度，**如果没必要使用高清大图，那么图片大小超过300k的建议进行优化。方法：将 png 等转 jpg, jpg 还可以继续压缩。**
 
 ### **视频/流媒体类**
 
@@ -191,26 +178,23 @@ YouTube，**后台 video studio 非常适合字幕编辑的在线协作**，无�
 
 音乐流网站有Spotify以及Apple Music；
 
-电子游戏流网站有Twitch以及Mixer。  
-
+电子游戏流网站有Twitch以及Mixer。
 
 ### **在线作图**
 
 有很多选择，根据需要在谷歌搜索
 
- ProcessOn [https://processon.com/diagrams](https://processon.com/diagrams) 免费在线作图，实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等，类似的还有 [creately.com](https://creately.com/)，[diagrams.net](https://app.diagrams.net/) 等等；
+ProcessOn [https://processon.com/diagrams](https://processon.com/diagrams) 免费在线作图，实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等，类似的还有 [creately.com](https://creately.com/)，[diagrams.net](https://app.diagrams.net/) 等等；
 
 前端美术：[figma.com](https://www.figma.com/)
 
-简易的Logo设计可以交由机器完成：[tailorbrands.com](https://studio.tailorbrands.com/)  
-
+简易的Logo设计可以交由机器完成：[tailorbrands.com](https://studio.tailorbrands.com/)
 
 ### **版本管理**
 
-github [https://github.com/](https://github.com/)  等，IT技术开发人员的必备工具，其他人使用需要学习git，但并不复杂。
+github [https://github.com/](https://github.com/) 等，IT技术开发人员的必备工具，其他人使用需要学习git，但并不复杂。
 
-Git教程 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)  
-
+Git教程 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
 
 ## 组织管理
 
@@ -231,14 +215,13 @@ Whova
 会议多效率低成本高，从发送会议邀请信，注册付费，日程安排，分发资料，签到登记，社交群组，名片管理，流程管理，酒店/餐饮预订，报销凭证，全过程专业app。每个会议服务费1000 $ [https://whova.com/](https://whova.com/)
 
 活动行  
-主要用于活动报名等活动前端服务，功能可以和Whova互补。 [https://www.huodongxing.com](https://www.huodongxing.com/)  
-
+主要用于活动报名等活动前端服务，功能可以和Whova互补。 [https://www.huodongxing.com](https://www.huodongxing.com/)
 
 ### **议事规则**
 
 开会方法，会议程序，推荐**罗伯特议事规则**，学习罗规的好处是，摒弃和人讨论交流时的坏习气，例如不讲规则，情绪化，主观，非理性，缺乏思维逻辑。将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中；其重要性可参考站内的其他文章：
 
-{% page-ref page="cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md" %}
+{% page-ref page="../gu-shi-xin-de/cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md" %}
 
 {% page-ref page="luo-bu-gui-ze-shi-sha-neng-zu-zhi-ren-lei-chao-jia-si-bi-hu-xiang-gong-ji.md" %}
 
@@ -250,6 +233,5 @@ Whova
 
 **议事工具- 议事通** [http://look365.net/](http://look365.net/) 注：2020.2.27日发现孙老师的平台中断服务了，现在被流氓广告占领。将软件架构在类似国产服务器和例如微信平台生态上面，那就是个渣，在微信开一个链接，导流量出来是可以的。
 
-**罗规学堂** [https://mp.weixin.qq.com/mp/profile\_ext?action=home&\_\_biz=MzI4MzkwNjYyNw==&scene=124\#wechat\_redirect](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4MzkwNjYyNw==&scene=124#wechat_redirect)  
-
+**罗规学堂** [https://mp.weixin.qq.com/mp/profile\_ext?action=home&\_\_biz=MzI4MzkwNjYyNw==&scene=124\#wechat\_redirect](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4MzkwNjYyNw==&scene=124#wechat_redirect)
 

@@ -80,7 +80,7 @@
 
 * 从安吉养殖场被离职的敢说真话的小李同学，是这样写离职信的：  
 
-![](../.gitbook/assets/xiaoli.jpg)
+![](../../.gitbook/assets/xiaoli.jpg)
 
 
 

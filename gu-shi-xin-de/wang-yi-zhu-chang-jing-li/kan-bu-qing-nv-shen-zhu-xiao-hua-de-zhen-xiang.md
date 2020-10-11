@@ -12,11 +12,11 @@
 * 丁磊：中国做不出世界最一流的猪，我觉得是耻辱 （[~~原文链接已失效~~](http://tech.163.com/17/0510/14/CK357VDU00097U7R.html)，百度也彻底找不到，可能后来连网易自己都觉得不合适，于是主动删贴了。不过还可以找到[当时的快照](https://web.archive.org/web/20180331101633/http://tech.163.com/17/0510/14/CK357VDU00097U7R.html)）
 * [新晋网红“猪小花”直播首秀，杨洋眼中的黑富美竟是她 ](https://www.digitaling.com/articles/34448.html)
 
-![](../.gitbook/assets/bestpig.png)
+![](../../.gitbook/assets/bestpig.png)
 
 
 
-![](../.gitbook/assets/nvshen.png)
+![](../../.gitbook/assets/nvshen.png)
 
 本人作为项目中的亲历者，已于2017年下半年离开，但时不时还接到各方询问，有意向投资养殖业的老板问：“网易猪养的到底咋样？”，想吃肉又不差钱的朋友也有问“值不值得买？”。
 

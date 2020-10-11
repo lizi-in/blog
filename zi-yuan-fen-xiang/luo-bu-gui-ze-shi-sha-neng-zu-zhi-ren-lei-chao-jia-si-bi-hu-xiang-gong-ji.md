@@ -24,5 +24,5 @@
 
 #### 相关文章
 
-{% page-ref page="cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md" %}
+{% page-ref page="../gu-shi-xin-de/cong-bei-da-fu-zhong-xue-sheng-wei-gong-lu-ming-shuo-qi.md" %}
 

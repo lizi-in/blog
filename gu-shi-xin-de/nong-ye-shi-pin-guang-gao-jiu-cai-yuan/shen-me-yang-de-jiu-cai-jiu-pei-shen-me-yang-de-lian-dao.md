@@ -34,5 +34,5 @@
 
 我们将牌营销的理论源头附在分享中，供大家参考：
 
-{% page-ref page="../pin-pai-ying-xiao-de-li-lun-yuan-tou.md" %}
+{% page-ref page="../../zi-yuan-fen-xiang/pin-pai-ying-xiao-de-li-lun-yuan-tou.md" %}
 

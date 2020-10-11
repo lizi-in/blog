@@ -58,13 +58,13 @@ _为了尽快赶走小李，周X还真敢签字，签了就意味着他承认了
 
 
 
-![&#x77E5;&#x4E4E;&#x5C4F;&#x853D;](../.gitbook/assets/zhihu1.png)
+![&#x77E5;&#x4E4E;&#x5C4F;&#x853D;](../../.gitbook/assets/zhihu1.png)
 
-![&#x77E5;&#x4E4E;&#x5C4F;&#x853D;](../.gitbook/assets/zhihu2.png)
+![&#x77E5;&#x4E4E;&#x5C4F;&#x853D;](../../.gitbook/assets/zhihu2.png)
 
-![B&#x7AD9;&#x5C4F;&#x853D;](../.gitbook/assets/bilibili2.png)
+![B&#x7AD9;&#x5C4F;&#x853D;](../../.gitbook/assets/bilibili2.png)
 
-![B&#x7AD9;&#x5C4F;&#x853D;](../.gitbook/assets/bilibili3.png)
+![B&#x7AD9;&#x5C4F;&#x853D;](../../.gitbook/assets/bilibili3.png)
 
 小李同学被404的原文现保存在这里：
 

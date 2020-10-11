@@ -43,13 +43,13 @@
 
 很多时候我们不期望家人支持，让他们保持中立沉默就很好了，而往往碰到了利用所谓的亲情“孝敬”近距离射杀攻击，杀熟这一招特别厉害，小Z就碰上了这样的家庭。
 
-![](.gitbook/assets/jinxi2.jpg)
+![](../.gitbook/assets/jinxi2.jpg)
 
-![&#x7236;&#x4EB2;&#x7ED9;&#x5C0F;Z&#x53D1;&#x7684;&#x4FE1;&#x606F;](.gitbook/assets/jinxi1.jpg)
+![&#x7236;&#x4EB2;&#x7ED9;&#x5C0F;Z&#x53D1;&#x7684;&#x4FE1;&#x606F;](../.gitbook/assets/jinxi1.jpg)
 
-![&#x6BCD;&#x4EB2;&#x7ED9;&#x5C0F;Z&#x7684;&#x4FE1;&#x606F;](.gitbook/assets/jinxi3.jpg)
+![&#x6BCD;&#x4EB2;&#x7ED9;&#x5C0F;Z&#x7684;&#x4FE1;&#x606F;](../.gitbook/assets/jinxi3.jpg)
 
-![](.gitbook/assets/jinxi4.jpg)
+![](../.gitbook/assets/jinxi4.jpg)
 
 录音3. 绿色之光晓英和小Z的妈妈对话 \[[点击可下载](https://github.com/li-in/blog/raw/gh-pages/blogarch/jinxi/3.amr)\]
 
