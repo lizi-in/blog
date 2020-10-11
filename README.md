@@ -14,7 +14,7 @@ description: Lizi Insight - 里子见解：不要面子，要里子
 
 写作丰富人生，众创协作记录。 朋友们，我们也想听听你们的相关故事和经历，你是怎么想，怎么干的？希望多收集一些案例，可以通过众创的方式来分析和解决一些问题，欢迎联系我们 。
 
+Atom. X  
 Email: info@lizi.in  
-Atom. X:   
-Sheldon. L: 
+
 
