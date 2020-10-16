@@ -14,7 +14,7 @@
   * [什么样的韭菜，就配什么样的镰刀！](story/fl-brand/6.md)
   * [品牌营销的理论源头](story/fl-brand/7.md)
 * [网易猪场经历](story/wang-yi-zhu-chang-jing-li/README.md)
-  * [看不清女神猪小花的真相](story/wang-yi-zhu-chang-jing-li/kan-bu-qing-nv-shen-zhu-xiao-hua-de-zhen-xiang.md)
+  * [看不清猪小花的真相](story/wang-yi-zhu-chang-jing-li/kan-bu-qing-nv-shen-zhu-xiao-hua-de-zhen-xiang.md)
   * [与副总裁通信及辞职](story/wang-yi-zhu-chang-jing-li/yu-fu-zong-cai-tong-xin-ji-ci-zhi.md)
   * [公关比董事会尽职](story/wang-yi-zhu-chang-jing-li/gong-guan-bi-dong-shi-hui-jin-zhi.md)
   * [给网易董事监事的信](story/wang-yi-zhu-chang-jing-li/gei-wang-yi-dong-shi-jian-shi-de-xin.md)
