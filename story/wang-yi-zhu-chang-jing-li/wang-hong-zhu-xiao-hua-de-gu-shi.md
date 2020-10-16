@@ -5,11 +5,9 @@ description: >-
 
 # 网红猪小花的故事
 
-作者：小李    发布于 2018-03-14
+作者：小李 发布于 2018-03-14
 
-
-
-![&#x4E01;&#x7238;&#x7238;&#x5BA0;&#x7231;&#x7684;&#x7F51;&#x6613;&#x5973;&#x795E;&#x732A;&#x5C0F;&#x82B1;&#x53D8;&#x6210;&#x4E86;&#x5339;&#x8BFA;&#x66F9;](../../.gitbook/assets/zhuxiaohua-3.png)
+![&#x4E01;&#x7238;&#x7238;&#x5BA0;&#x7231;&#x7684;&#x7F51;&#x6613;&#x5973;&#x795E;&#x732A;&#x5C0F;&#x82B1;&#x53D8;&#x6210;&#x4E86;&#x5339;&#x8BFA;&#x66F9;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/zhuxiaohua-3.png)
 
 ## 来自网易离职员工的自述
 
@@ -61,7 +59,7 @@ description: >-
 
 * **引入洋公猪品种以缩短饲养周期。** 2017年3月丁磊在直播视频中介绍了一种生长速度很快的洋猪就叫杜洛克，并说中国土猪味道好且需要得到保护，给大家的印象就是养洋猪是不好的，养本土黑猪更好，给公众传达的意思是我们养的是纯正本土黑猪，然而6月之后就引进纯种杜洛克作为种公猪，淘汰了几乎所有的本土种公猪；
 
-![](../../.gitbook/assets/blackpig.png)
+![](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/blackpig.png)
 
 * **增加饲养密度** 饲养密度变为极限的15~20头/圈，高密度养殖导致了恶劣的饲养环境，“不打针”、“不吃药”、“动物福利”是不可能的；
 * 即使这样，也装不下那么多商品猪，最后只能在江苏某地**找养殖场代养**。网易宣称年产2万头，实际自营产能小于7000头/年，超过6成猪代养的也算“网易自营养猪场”吗？代养部分的饲养环境能否达到“味央的公寓级标准”呢？网易至今也没有公布。
@@ -78,13 +76,9 @@ description: >-
 
 另一方面，在直播中会看到我们给猪添加稻草玩具，地上也会铺上厚厚的稻草垫料（对猪而言，这是相当重要的福利标志），**然而我们的“猪马桶”由于很容易堵塞，所以实际生产中是不会提供稻草的**。我们的猪和其他普通的工厂化养殖的猪一样，生活在并不适合猪的水泥地板上，**易造成疝气和滑囊炎**。
 
-  
+![&#x6444;&#x4E8E;17&#x5E74;6&#x6708;&#x80B2;&#x80A5;&#x820D;&#xFF1B;10&#x6708;&#x4EFD;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x60C5;&#x51B5;&#x53D8;&#x5F97;&#x975E;&#x5E38;&#x6076;&#x52A3;&#xFF0C;&#x4E00;&#x6B21;&#x8F6C;&#x680F;200&#x591A;&#x53EA;&#x732A;&#x5C31;&#x6709;&#x4E94;&#x516D;&#x53EA;&#x6C19;&#x6C14;&#x7684;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/xianqi.png)
 
-![&#x6444;&#x4E8E;17&#x5E74;6&#x6708;&#x80B2;&#x80A5;&#x820D;&#xFF1B;10&#x6708;&#x4EFD;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x60C5;&#x51B5;&#x53D8;&#x5F97;&#x975E;&#x5E38;&#x6076;&#x52A3;&#xFF0C;&#x4E00;&#x6B21;&#x8F6C;&#x680F;200&#x591A;&#x53EA;&#x732A;&#x5C31;&#x6709;&#x4E94;&#x516D;&#x53EA;&#x6C19;&#x6C14;&#x7684;](../../.gitbook/assets/xianqi.png)
-
-
-
-![&#x53F3;&#x524D;&#x80A2;&#x6ED1;&#x56CA;&#x708E;&#xFF0C;&#x6444;&#x4E8E;17&#x5E74;6&#x6708;&#xFF0C;&#x8FD8;&#x5C5E;&#x4E8E;&#x60C5;&#x51B5;&#x6BD4;&#x8F83;&#x597D;&#x7684;&#x65F6;&#x5019;](../../.gitbook/assets/huanangyan.png)
+![&#x53F3;&#x524D;&#x80A2;&#x6ED1;&#x56CA;&#x708E;&#xFF0C;&#x6444;&#x4E8E;17&#x5E74;6&#x6708;&#xFF0C;&#x8FD8;&#x5C5E;&#x4E8E;&#x60C5;&#x51B5;&#x6BD4;&#x8F83;&#x597D;&#x7684;&#x65F6;&#x5019;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/huanangyan.png)
 
 甚至其他猪场的“猪马桶”（漏缝地板）更容易把粪污冲走，不会让猪舍又臭又脏。在直播中可以看到猪舍所有的门窗都是紧闭的，原因之一是为了不让猪舍内的臭气逸出被来访者察觉。尽管每次来访客前，都会打扫卫生并喷洒可以遮掩臭味的制剂，我们依然会担心臭气外逸。直播的那次，养的猪少且天气凉爽，没发现有问题。但是后来某次，大概是9月份，有接连几次外宾来访，在高温高湿的情况下关窗，导致猪只死亡率暴增。
 
@@ -136,39 +130,25 @@ description: >-
 
 **沉溺于自我想象中的猪小花**
 
+![&#x6765;&#x81EA;&#x5B98;&#x5BA3;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/zhuxiaohua-1.png)
 
-
-![&#x6765;&#x81EA;&#x5B98;&#x5BA3;](../../.gitbook/assets/zhuxiaohua-1.png)
-
-![&#x6765;&#x81EA;&#x5B98;&#x5BA3;](../../.gitbook/assets/zhuxiaohua-2.png)
-
-
+![&#x6765;&#x81EA;&#x5B98;&#x5BA3;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/zhuxiaohua-2.png)
 
 **现实中的猪小花**
 
 摄于2017年10月的保育舍，因下游的商品猪舍挤爆了，上游已经长大的猪小花只好继续挤在保育舍，保育栏对它们来说已经太小了，环境变得非常恶劣：
 
- 
+![&#x73B0;&#x5B9E;&#x4E2D;&#x7684;&#x732A;&#x5C0F;&#x82B1;-&#x6324;&#x7206;&#x4E86;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/dens.png)
 
-![&#x73B0;&#x5B9E;&#x4E2D;&#x7684;&#x732A;&#x5C0F;&#x82B1;-&#x6324;&#x7206;&#x4E86;](../../.gitbook/assets/dens.png)
-
-
-
-![&#x73B0;&#x5B9E;&#x4E2D;&#x7684;&#x732A;&#x5C0F;&#x82B1;-&#x9A6C;&#x6876;&#x548C;&#x98DF;&#x69FD;](../../.gitbook/assets/toilet_through.png)
+![&#x73B0;&#x5B9E;&#x4E2D;&#x7684;&#x732A;&#x5C0F;&#x82B1;-&#x9A6C;&#x6876;&#x548C;&#x98DF;&#x69FD;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/toilet_through.png)
 
 摄于2017年8月, 因长期缺乏运动，营养跟不上，地面条件差，猪走道设计不合理等因素，这只即将分娩的母猪无法站立：
 
-  
+![&#x6BCD;&#x732A;&#x7684;&#x8E44;&#x5B50;&#x90FD;&#x5FEB;&#x6491;&#x88C2;&#x4E86;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/sow-1.png)
 
-![&#x6BCD;&#x732A;&#x7684;&#x8E44;&#x5B50;&#x90FD;&#x5FEB;&#x6491;&#x88C2;&#x4E86;](../../.gitbook/assets/sow-1.png)
+![&#x6BCD;&#x732A;&#x7684;&#x8E44;&#x5B50;&#x90FD;&#x5FEB;&#x6491;&#x88C2;&#x4E86;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/sow-2.png)
 
-
-
-![&#x6BCD;&#x732A;&#x7684;&#x8E44;&#x5B50;&#x90FD;&#x5FEB;&#x6491;&#x88C2;&#x4E86;](../../.gitbook/assets/sow-2.png)
-
-![&#x653E;&#x5F03;&#x6323;&#x624E;&#xFF0C;&#x6700;&#x540E;&#x53EA;&#x53EF;&#x80FD;&#x88AB;&#x7C97;&#x66B4;&#x5730;&#x63A8;&#x8FDB;&#x5206;&#x5A29;&#x820D;](../../.gitbook/assets/sow-3.png)
-
-
+![&#x653E;&#x5F03;&#x6323;&#x624E;&#xFF0C;&#x6700;&#x540E;&#x53EA;&#x53EF;&#x80FD;&#x88AB;&#x7C97;&#x66B4;&#x5730;&#x63A8;&#x8FDB;&#x5206;&#x5A29;&#x820D;](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/sow-3.png)
 
 ### **“2万头，6个人掌控全场”**
 
