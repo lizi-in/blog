@@ -37,4 +37,5 @@
 * [萝卜规则是啥？能阻止人类吵架撕逼互相攻击？](share/robert-rules.md)
 * [高效高质的工作/ 学习/ 休闲装备](share/efficiency.md)
 * [影片推荐](share/film-share.md)
+* [食品采购清单](share/shi-pin-cai-gou-qing-dan.md)
 
