@@ -65,7 +65,7 @@ CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.we
 
 ### 手机
 
-部分老旧手机还可以刷手机固件操作系统，将出厂内置的其他软件统统去掉。新的国产安卓可以安装小黒屋工具，将无法卸载却其实没必要的捆绑软件关进小黒屋，这是此操作对于普通用户来说可能略显麻烦。国外版本的苹果手机不错，会搭梯子的可以试试 Google Pixel，会玩的可以买ubuntu版本的手机。
+部分老旧手机还可以刷手机固件操作系统，将出厂内置的其他软件统统去掉。新的国产安卓可以安装小黒屋工具，将无法卸载却其实没必要的捆绑软件关进小黒屋，这是此操作对于普通用户来说可能略显麻烦。国外版本的苹果手机不错，可以试试 Google Pixel，会玩的可以买ubuntu版本的手机。
 
 ### 电脑
 
@@ -96,25 +96,27 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ## **浏览器**
 
-建议不要用国产的浏览器，广告太多，使用谷歌chrome浏览器或者火狐浏览器。
+不建议用国产浏览器，流氓软件上的广告太多，使用谷歌chrome浏览器或者火狐浏览器，页面就很干净。
 
-**chrome.com，** 搭上梯子，注册一个google账号，完美。
+**chrome.com，** 注册一个google账号，完美。
 
 **firefox.com 不是 firefox.com.cn** 否则可能会被挂满广告的网站默认首页，或可以下载[台湾的繁体版](https://www.mozilla.org/zh-TW/firefox/new/?redirect_source=firefox-com)。
 
 ## 搜索引擎
 
-**Google，**需要梯子配合才能使用；
+**Google，**登陆到境外网络环境才能使用；
 
-**Duckduckgo，**需要梯子配合才能使用，默认隐私保护，不保存任何浏览记录，除非你更改配置；
+**Duckduckgo，**默认隐私保护，不保存任何浏览记录，除非你更改配置；
 
-**Bing**，如果不能搭梯子，可以用微软Bing国际版，也比某度强；
+**Bing**，国内用户可以直接使用，可以用微软Bing国际版，也比某度娘强；
+
+**Yandex**，是俄罗斯的google全家桶，部分功能开放，可以试试看；
 
 ## 软件库
 
 **安卓手机推进使用 Google play store 谷歌软件库** [**https://play.google.com/store**](https://play.google.com/store) **。**尽量不要用国产被加载各种广告的软件，有较大安全隐患！**即使你已经申请不到谷歌账号了**，**仍旧可以用电脑下载 Chrome 浏览器，安装** [**APK Downloader**](https://chrome.google.com/webstore/detail/apk-downloader/fgljidimohbcmjdabiecfeikkmpbjegm)**,** 从上述 Google Play 获取下载链接粘贴到 APK Downloader 也可以获取大部分日常所需的优质软件的 APK 安装包，传到手机上安装即可，期间注意避开手机上自带的安装软件的默认的安装选项。
 
-苹果手机如果买的是水货或境外版本，通过梯子在苹果网站将账号注册成境外的地址，可以享受到未被阉割的苹果软件商城。
+苹果手机如果买的是水货或境外版本，在苹果网站将账号注册成境外的地址，可以享受到未被阉割的苹果软件商城。
 
 ## **远程协助**
 
@@ -138,8 +140,8 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ## **云存储**
 
-**Google drive**  
-具备网盘，各种类型文档的存储和协作功能,但是需要梯子才能使用； [https://drive.google.com](https://drive.google.com/)
+**Google drive** [https://drive.google.com](https://drive.google.com/)  
+具备网盘，各种类型文档的存储和协作功能； 
 
 **Wetransfer**  
 临时存储分享大型文件外链； [https://wetransfer.com/](https://wetransfer.com/)
@@ -156,11 +158,13 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 **有许多可选软件，例举一小部分：**
 
-**Google docs** [**https://docs.google.com**](https://docs.google.com/)，google drive 下的一款小工具，10多年前就已经成熟了，需要梯子和谷歌账号；
+**Google docs** [**https://docs.google.com**](https://docs.google.com/)，google drive 下的一款小工具，10多年前就已经成熟了，需要谷歌账号；
 
-**Quip** [**https://quip.com/**](https://quip.com/) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，不需要梯子；
+**Quip** [**https://quip.com/**](https://quip.com/) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，无需境外网络环境；
 
 **Shimo，国产，在国外用起来不方便。**一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论，让你与他人轻松完成协作撰稿、方案讨论、会议记录和资料 ... [https://shimo.im/desktop](https://shimo.im/desktop)
+
+
 
 ### **图片类**
 
@@ -195,6 +199,9 @@ ProcessOn [https://processon.com/diagrams](https://processon.com/diagrams) 免�
 github [https://github.com/](https://github.com/) 等，IT技术开发人员的必备工具，其他人使用需要学习git，但并不复杂。
 
 Git教程 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
+
+**Gitbook,** [**https://www.gitbook.com/**](https://www.gitbook.com/)  
+****用于写日志和项目文档documentation，我将其用于写博客，比一般的博客系统简单多了，可以同步备份到github，防止文件丢失，方便多人团队协作同一份文档，功能非常强大。
 
 ## 组织管理
 
