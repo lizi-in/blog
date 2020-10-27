@@ -52,11 +52,12 @@
 
 
 
-### 和君书单2020 \| 建设知识结构：企业家和投行家阅读书目单 <a id="activity-name"></a>
+## 图书
 
-[https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA](https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA)
 
-这个书单蛮好，但是展示形式有问题，如果通过amazon kindle，或豆瓣网会好很多。
+
+和君书单2020 \| 建设知识结构：企业家和投行家阅读书目单[https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA](https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA)  
+这个书单蛮好，但是维护不容易，展示形式如果通过amazon kindle，或豆瓣网会更好。
 
 
 
