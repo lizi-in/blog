@@ -35,9 +35,9 @@
 
 ## 资源分享 <a id="share"></a>
 
-* [萝卜规则是啥？能阻止人类吵架撕逼互相攻击？](share/robert-rules.md)
+* [萝卜规则是啥？能阻止人类吵架互相攻击？](share/robert-rules.md)
 * [IT工具库- 高效高质量的工作/ 学习/ 休闲装备](share/efficiency.md)
-* [影片推荐](share/film-share.md)
+* [图书/影片推荐](share/film-share.md)
 * [食品采购清单](share/shi-pin-cai-gou-qing-dan.md)
 * [LEC乐创客社区](share/lec-le-chuang-ke-she-qu.md)
 

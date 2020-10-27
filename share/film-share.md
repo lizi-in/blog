@@ -1,4 +1,4 @@
-# 影片推荐
+# 图书/影片推荐
 
 盗版已经形成了中文网络常态，不建议看国内的影视平台，盗版猖獗对全社会都没好处，整体环境已经毁坏了，很难出国产的好片子。
 
@@ -49,4 +49,16 @@
 黑镜 Black Mirror
 
 欢迎大家推荐，持续更新 ……
+
+
+
+### 和君书单2020 \| 建设知识结构：企业家和投行家阅读书目单 <a id="activity-name"></a>
+
+[https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA](https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA)
+
+这个书单蛮好，但是展示形式有问题，如果通过amazon kindle，或豆瓣网会好很多。
+
+
+
+
 
