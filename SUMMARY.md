@@ -4,6 +4,7 @@
 
 ## 故事心得 <a id="story"></a>
 
+* [给Z教会牧师和传道人的信](story/geizjiao-hui-mu-shi-he-chuan-dao-ren-de-xin.md)
 * [生态农业圈的故事](story/ecoagri.md)
 * [农业食品广告行业的大批量优质韭菜待收割](story/fl-brand/README.md)
   * [《品牌农业与市场》杂志](story/fl-brand/1.md)
