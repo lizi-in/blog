@@ -4,7 +4,7 @@
 
 ## 故事心得 <a id="story"></a>
 
-* [Untitled](story/untitled/README.md)
+* [一项可能阻止中美战争的抗疫方案](story/untitled/README.md)
   * [写给梁冬老师的信](story/untitled/xie-gei-liang-dong-lao-shi-de-xin.md)
   * [新冠防治手册-治疗篇](story/untitled/xin-guan-fang-zhi-shou-ce-zhi-liao-pian.md)
   * [新冠防治手册—防控篇](story/untitled/xin-guan-fang-zhi-shou-ce-fang-kong-pian.md)
