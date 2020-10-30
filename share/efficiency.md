@@ -158,6 +158,9 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 **Box**企业级应用开始，支持大量公益组织  
 [https://www.box.org/](https://www.box.org/)
 
+**Nextcloud** [https://nextcloud.com/](https://nextcloud.com/)  
+开源免费的私有云存储网盘项目，快速便捷搭建一套属于自己或团队的云同步网盘，从而实现跨平台跨设备文件同步、共享、版本控制、团队协作等功能。
+
 ## **文件与远程协作**
 
 ### **文档类**
