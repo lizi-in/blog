@@ -11,7 +11,7 @@
 * [与左耳朵耗子聊远程工作](story/remote-work.md)
 * [给Z教会牧师和传道人的信](story/geizjiao-hui-mu-shi-he-chuan-dao-ren-de-xin.md)
 * [生态农业圈的故事](story/ecoagri/README.md)
-  * [为什么有一种人被叫做新农人？](story/ecoagri/wei-shen-me-you-yi-zhong-ren-bei-jiao-zuo-xin-nong-ren.md)
+  * [为什么有一种人被叫做新农人？](story/ecoagri/new-farmer.md)
 * [农业食品广告行业的大批量优质韭菜待收割](story/fl-brand/README.md)
   * [《品牌农业与市场》杂志](story/fl-brand/1.md)
   * [品牌农业首席顾问 FL.](story/fl-brand/2.md)
