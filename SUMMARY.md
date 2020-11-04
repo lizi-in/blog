@@ -13,7 +13,7 @@
 * [生态农业圈的故事](story/ecoagri/README.md)
   * [为什么有一种人被叫做新农人？](story/ecoagri/new-farmer.md)
   * [与某地农委领导谈话：关于农业+互联网](story/ecoagri/agri+cyber.md)
-  * [税务局老王，别再打电话了！](story/ecoagri/tax-wang.md)
+  * [税务局老王，别再打电话了！早点退休回家歇着吧。](story/ecoagri/tax-wang.md)
 * [农业食品广告行业的大批量优质韭菜待收割](story/fl-brand/README.md)
   * [《品牌农业与市场》杂志](story/fl-brand/1.md)
   * [品牌农业首席顾问 FL.](story/fl-brand/2.md)
