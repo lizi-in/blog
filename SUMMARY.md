@@ -8,7 +8,7 @@
   * [写给梁冬老师的信](story/fight-2019-ncov/xie-gei-liang-dong-lao-shi-de-xin.md)
   * [新冠防治手册-治疗篇](story/fight-2019-ncov/xin-guan-fang-zhi-shou-ce-zhi-liao-pian.md)
   * [新冠防治手册—防控篇](story/fight-2019-ncov/xin-guan-fang-zhi-shou-ce-fang-kong-pian.md)
-* [与左耳朵耗子聊天的启发](story/untitled.md)
+* [与左耳朵耗子聊远程工作](story/remote-work.md)
 * [给Z教会牧师和传道人的信](story/geizjiao-hui-mu-shi-he-chuan-dao-ren-de-xin.md)
 * [生态农业圈的故事](story/ecoagri/README.md)
   * [为什么有一种人被叫做新农人？](story/ecoagri/wei-shen-me-you-yi-zhong-ren-bei-jiao-zuo-xin-nong-ren.md)
