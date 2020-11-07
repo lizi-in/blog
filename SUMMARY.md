@@ -16,7 +16,7 @@
   * [与某地农委领导谈话：关于农业+互联网](story/ecoagri/agri+cyber.md)
   * [税务局老王，别再打电话了！早点退休回家歇着吧。](story/ecoagri/tax-wang.md)
 * [感官测评](story/gan-guan-ce-ping/README.md)
-  * [人体感官能力也可以像科学仪器一样精准吗？](story/gan-guan-ce-ping/gan-guan-ce-ping-cha-ye-vs.-ga-fei.md)
+  * [体验消费的时代与感官科学](story/gan-guan-ce-ping/gan-guan-ce-ping-cha-ye-vs.-ga-fei.md)
   * [季老师的水果保鲜课](story/gan-guan-ce-ping/ji-lao-shi-de-shui-guo-bao-xian-ke.md)
 * [农业食品广告行业的大批量优质韭菜待收割](story/fl-brand/README.md)
   * [《品牌农业与市场》杂志](story/fl-brand/1.md)
