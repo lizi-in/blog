@@ -47,6 +47,10 @@
 
 当时一个福建朋友的有机茶园要出一批检测报告，于是通过我找茶叶研究所做测评。该所的W博士告诉我，她有兴趣研究茶叶的风味轮，我第一次见到惊艳的风味轮，对这种测评工具确实感到很新奇，市面上咖啡风味轮很普遍了，搜遍网络还没见到茶叶风味轮。
 
+咖啡风味轮 [https://www.gafei.com/kafeifengweiquxian/20170716106649.html](https://www.gafei.com/kafeifengweiquxian/20170716106649.html)  
+葡萄酒风味轮 [https://www.wine-world.com/culture/pj/20140305165312796](https://www.wine-world.com/culture/pj/20140305165312796)  
+雪茄风味轮 [http://www.xuejia.mobi/sense/511.html](http://www.xuejia.mobi/sense/511.html)
+
 至于为什么要用这个？博士说因为茶叶专业人士用的那些分析工具太复杂了，风味轮可以给普通大众做科普，像熟练风味轮的咖啡师和顾客也可以很专业啊。  
   
  这就是问题了，面对许多科技的受众人群，要么是让人高山仰止的稀有专家，要么是一无所知的普通小白，社会更缺乏处于中间态的专业人士，无论他们是从业者或仅仅是个普通人。  
