@@ -11,7 +11,6 @@
 * [与左耳朵耗子聊远程工作](story/remote-work.md)
 * [给Z教会牧师和传道人的信](story/geizjiao-hui-mu-shi-he-chuan-dao-ren-de-xin.md)
 * [生态农业圈的故事](story/ecoagri/README.md)
-  * [Untitled](story/ecoagri/untitled.md)
   * [为什么有一种人被叫做新农人？](story/ecoagri/new-farmer.md)
   * [与某地农委领导谈话：关于农业+互联网](story/ecoagri/agri+cyber.md)
   * [税务局老王，别再打电话了！早点退休回家歇着吧。](story/ecoagri/tax-wang.md)
