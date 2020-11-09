@@ -51,8 +51,6 @@ description: >-
 
 ![](../../.gitbook/assets/nvshen.png)
 
-![](../../.gitbook/assets/bestpig.png)
-
 ## 现实中的猪小花
 
 ### **“慢养300天”“2万头”“中华本土黑猪”“网易自营养猪场”**

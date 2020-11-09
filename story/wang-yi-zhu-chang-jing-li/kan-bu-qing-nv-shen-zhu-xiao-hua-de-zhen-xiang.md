@@ -12,7 +12,7 @@
 * 丁磊：中国做不出世界最一流的猪，我觉得是耻辱 （[~~原文链接已失效~~](http://tech.163.com/17/0510/14/CK357VDU00097U7R.html)，百度也彻底找不到，可能后来连网易自己都觉得不合适，于是主动删贴了。不过还可以找到[当时的快照](https://web.archive.org/web/20180331101633/http://tech.163.com/17/0510/14/CK357VDU00097U7R.html)）
 * [新晋网红“猪小花”直播首秀，杨洋眼中的黑富美竟是她 ](https://www.digitaling.com/articles/34448.html)
 
-![](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/bestpig.png)
+![](../../.gitbook/assets/bestpig.png)
 
 ![](https://github.com/lizi-in/blog/tree/cc233bf1ba90f75b16ebcf3f3dfc99245012ad72/.gitbook/assets/nvshen.png)
 
