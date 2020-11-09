@@ -32,7 +32,7 @@
   * [给网易董事监事的信](story/wang-yi-zhu-chang-jing-li/gei-wang-yi-dong-shi-jian-shi-de-xin.md)
   * [网红猪小花的故事](story/wang-yi-zhu-chang-jing-li/wang-hong-zhu-xiao-hua-de-gu-shi.md)
   * [猪队友系列](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/README.md)
-    * [平庸之恶，乌合之众](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/ping-yong-zhie-wu-he-zhi-zhong.md)
+    * [猪队友- 平庸之恶，乌合之众](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/ping-yong-zhie-wu-he-zhi-zhong.md)
     * [从学校优秀到单位](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
     * [吃太饱还肆意浪费](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/ping-yong-zai-yu-chi-tai-bao-huan-lang-fei.md)
     * [监事的面子，副总的眼光](story/wang-yi-zhu-chang-jing-li/zhu-dui-you-xi-lie/jian-shi-de-mian-zi-fu-zong-de-yan-guang.md)
