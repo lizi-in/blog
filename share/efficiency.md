@@ -138,6 +138,9 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 **Nextcloud** [https://nextcloud.com/](https://nextcloud.com/)  
 开源免费的私有云存储网盘项目，快速便捷搭建一套属于自己或团队的云同步网盘，从而实现跨平台跨设备文件同步、共享、版本控制、团队协作等功能。
 
+**Wayback Machine** [https://archive.org/](https://archive.org/)  
+****用于保存网页的档案，类似搜索引擎的快照，如果静态页面被删除，以后还能找到
+
 ## **文件与远程协作**
 
 ### **文档类**
