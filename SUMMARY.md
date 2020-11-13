@@ -32,7 +32,7 @@
   * [给网易董事监事的信](story/black-pig/gei-wang-yi-dong-shi-jian-shi-de-xin.md)
   * [网红猪小花的故事](story/black-pig/wang-hong-zhu-xiao-hua-de-gu-shi.md)
   * [猪队友众生相](story/black-pig/pig-mate/README.md)
-    * [夹着尾巴的副总裁，市场部的污王](story/black-pig/pig-mate/lb-sh.md)
+    * [夹着尾巴做人，污王](story/black-pig/pig-mate/lb-sh.md)
     * [监事的面子，副总的眼光](story/black-pig/pig-mate/dc-zj.md)
     * [平庸之恶，乌合之众](story/black-pig/pig-mate/wxf.md)
     * [从学校优秀到单位](story/black-pig/pig-mate/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
