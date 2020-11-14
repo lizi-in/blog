@@ -38,7 +38,7 @@
     * [从学校优秀到单位](story/black-pig/pig-mate/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
     * [吃太饱还肆意浪费](story/black-pig/pig-mate/overload-waste.md)
 * [社会演化和个体觉悟](story/human-evolution.md)
-* [父母扬言杀死亲生女儿，因她参加环保志愿者活动](story/eco-friend.md)
+* [环保志愿者小Z的故事](story/eco-friend.md)
 * [从北大附中学生围攻鹿鸣说起](story/foul.md)
 * [我的学习经历](story/learn-how.md)
 * [怎样学英语](story/learn-en.md)
