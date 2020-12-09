@@ -38,7 +38,7 @@
     * [生产主管的怨恨](story/netease-black-pig/pig-mate/angry-z.md)
     * [监事的面子，副总的眼光](story/netease-black-pig/pig-mate/dc-zj.md)
     * [猪队友是谁？](story/netease-black-pig/pig-mate/wxf.md)
-    * [平庸之恶，乌合之众](story/netease-black-pig/pig-mate/cong-xue-xiao-yi-zhi-you-xiu-dao-dan-wei.md)
+    * [平庸之恶，乌合之众](story/netease-black-pig/pig-mate/crowd-banality.md)
     * [吃太饱还肆意浪费](story/netease-black-pig/pig-mate/overload-waste.md)
     * [HR：冒进与裁员并行](story/netease-black-pig/pig-mate/hr-layoffs.md)
 * [社会演化和个体觉悟](story/human-evolution.md)
