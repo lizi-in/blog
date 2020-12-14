@@ -17,3 +17,9 @@ description: Lizi Insight - 里子洞察：抛开面子，洞察里子，追寻�
 Atom. X  
 Email: info@lizi.in
 
+![](https://www.openwbs.com/ow-content/uploads/forum/201811/201811151511161101.jpg)
+
+![](https://images.unsplash.com/photo-1606681884791-5fd461728d4b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80)
+
+
+
