@@ -54,10 +54,11 @@
  项目地点：丹麦. 奥登塞  
   
 **协作平台：**  
- WWOOF 世界有机农场志愿者组织 Worldwide Opportunities on Organic Farms [http://www.wwoof.net/](http://www.wwoof.net/)  
-  
- **项目概述：**  
-加入丹麦WWOOF组织，申请到一家有机农场学校的wwoofer机会，从事环境教育、社区儿童陪护、园艺和农田劳动、日常运营管理等工作；陪同丹麦当地有机食品出口商，和中国有机食品的认监委的官员 CACN \( Certification and Accreditation Administration of China\) ，走访并验证了奥登塞的有机农场。  
+ WWOOF 世界有机农场志愿者组织 Worldwide Opportunities on Organic Farms [http://www.wwoof.net/](http://www.wwoof.net/) 
+
+**项目概述：**  
+加入丹麦WWOOF组织，申请到家庭农场和学校的wwoofer机会，从事环境教育、社区儿童陪护、园艺和农田劳动、日常运营管理等工作；  
+陪同丹麦当地有机食品出口商，和中国有机食品的认监委的官员 CACN \( Certification and Accreditation Administration of China\) ，走访并验证了当地的有机农场。  
 
 
 ## 2010- 2012. 农业和农村发展
