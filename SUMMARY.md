@@ -29,7 +29,7 @@
 * [网易猪场经历](story/netease-black-pig/README.md)
   * [看不清猪小花的真相](story/netease-black-pig/untold-truth.md)
   * [与副总裁通信被辞职](story/netease-black-pig/quit.md)
-  * [一只比熊猫幸福的猪](story/netease-black-pig/animal-welfare.md)
+  * [比熊猫还幸福的猪](story/netease-black-pig/animal-welfare.md)
   * [公关比董事会尽职](story/netease-black-pig/sucks-pr.md)
   * [给网易董事监事的信](story/netease-black-pig/board-letter.md)
   * [网红猪小花的故事](story/netease-black-pig/pig-story.md)
