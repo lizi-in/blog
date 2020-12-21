@@ -48,13 +48,13 @@
 * [我的学习经历](story/learn-how.md)
 * [怎样学英语](story/learn-en.md)
 * [从SARS和武汉肺炎谈到吃的问题](story/2019-ncov.md)
+* [从网络流氓谈起](story/cong-wang-luo-liu-mang-tan-qi.md)
 
 ## 资源分享 <a id="share"></a>
 
 * [萝卜规则是啥？能阻止人类吵架互相攻击？](share/robert-rules.md)
-* [从网络流氓谈起](share/cong-wang-luo-liu-mang-tan-qi.md)
 * [软件工具库- 高效高质量的工作/ 学习/ 休闲装备](share/efficiency.md)
-* [图书/影片推荐](share/film-share.md)
+* [图书/影片/学习资源推荐](share/film-share.md)
 * [餐饮方案- 食品采购清单](share/shi-pin-cai-gou-qing-dan.md)
 * [生活工作空间方案- LEC乐创客社区](share/lec-le-chuang-ke-she-qu.md)
 
