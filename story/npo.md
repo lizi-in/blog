@@ -13,7 +13,7 @@
   
  **项目概述：**研究中国对比世界的畜牧业和水产品生产及肉食消费的数据分析和可视化，这个项目花了我们小团队将近1年时间，到目前为止还不算完美和结束，预计未来在有资源投入的情况下，版本升级为动态的数据大屏幕Dash board，提供开源的数据验证，为环境、教育、科研、政府、植物基蛋白生产商和相关智库等机构服务；  
   
- **项目名称：**中国肉食数据图谱摘要 China Meat Atlas Briefs  
+ **项目名称：**中国肉食数据图谱摘要 China Meat Atlas Brief  
  a. Github: [https://meatatlas.github.io/](https://meatatlas.github.io/)  
  b. 摘要报告: [https://quip.com/RXqaASdn65Nk](https://quip.com/RXqaASdn65Nk)  
  c. 演示稿: [https://drive.google.com/open?id=1N4ng2wkU4QaR818fv9s8yAflpINPypbhj1L5pHEH7t4](https://drive.google.com/open?id=1N4ng2wkU4QaR818fv9s8yAflpINPypbhj1L5pHEH7t4)  
@@ -46,7 +46,7 @@
 **项目概述：**  
 编译中国大陆最早的动物福利公开课，及workshop工作坊培训用的系列文件资料翻译，为中国动物福利协会招募和培训志愿者团队，同期在网易从事养猪项目的运营。  
   
-观看了BBC系列很多经典环境纪录片，召集志愿者组织字幕组，做了2年多环境纪录片和视频的字幕，累计完成超过120节视频的编译。由于触碰没有明文规则的平台监管，部分影片过不了审查，且国产视频托管平台服务质量普遍很差，还涉嫌盗版侵权问题，于是遗憾放弃，一些残存视频链接如下：  
+热爱观看BBC系列经典环境纪录片，召集志愿者组织字幕组，做了2年多环境纪录片和视频的字幕，累计完成超过120节短视频的编译。由于触碰没有明文规则的平台监管，部分影片过不了审查，且国产视频托管平台服务质量普遍很差，还涉嫌盗版侵权问题，最终遗憾放弃，一些残存视频链接如下：  
  微信：[https://mp.weixin.qq.com/s/M9NW4XSZFECVBs0cKciw9A](https://mp.weixin.qq.com/s/M9NW4XSZFECVBs0cKciw9A)  
  B站：[https://space.bilibili.com/10633017](https://space.bilibili.com/10633017)  
 
@@ -122,9 +122,9 @@ CACN，Certification and Accreditation Administration of China 中国认证认�
 
  项目地点：重庆. 巫溪  
   
- **协作单位：**  
-GVB，北京地球村 Global Village of Beijing  
-GIFT，全球未来研究所 Global Institute For Tomorrow  
+**协作单位：**  
+GVB，北京地球村环境教育中心 Global Village of Beijing [http://www.chinadevelopmentbrief.org.cn/org660/](http://www.chinadevelopmentbrief.org.cn/org660/)  
+GIFT，全球未来研究所 Global Institute For Tomorrow [https://global-inst.com/](https://global-inst.com/)  
 AIA，美国国际保险集团 American International Assurance  
   
 **项目概述：**  
@@ -133,7 +133,9 @@ AIA，美国国际保险集团 American International Assurance
 **项目材料：**  
 [https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi](https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi)  
 [https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html](https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html)  
-[https://global-inst.com/](https://global-inst.com/)  
+
+
+  
   
 
 
@@ -167,7 +169,10 @@ AIA，美国国际保险集团 American International Assurance
 
 1. 选对职业：从18线乡镇农村高中毕业后，我和大多数农家娃一样是没见识的，资讯来自于电视和报刊，隐约感觉计算机互联网是未来趋势，于是就选了电商和IT方向，由于没有好好学习，只是上了个8流的职业技术学校，当时给自己做主的人生规划，很实在的想法是，学个技术手艺可以尽早工作，非常建议平民家的孩子都首选学IT，能更早走出去独立生存； 
 2. 掌握语言：离开学校之前几乎没有英语及格过，也不会说和听，由于喜欢看国外大片，所以有兴趣学外语，都是进入社会工作后，自己野路子摸索出来的，英语熟练后，在IT和互联网加持下，眼界和知识面得到极大拓展，打破了常规的地理位置空间和时间（时空）限制。例如我们在偏远落后地区从事农业项目志愿者，一样可以获得海外的媒体和公益组织的关注，于是有许多与跨境和跨界的文化交流机会，这比那些在城里老实上班的高学历白领们更多机会用到实景的英文，也比商业公司里更开阔眼界和思维； 
-3. 爹妈不管：我家几代贫农，并不是家长不想管，而是整日忙于土里刨食没能力管，长大离家后在江湖上独自飘荡觅食，翅膀练硬飞远了，他们更是无奈伸手够不着，所以没有在买房，结婚，生娃这些世俗问题上逼迫的太紧；探索不赚钱的事情，经济保障非常重要，所幸生在一个网络时代，我们这些IT背景的人如鱼得水，只要别想大富大贵，一般的生存质量当然不是问题，可能比任何一个其他行业都要自由些； 
+3. 爹妈不管：本家世代贫农，并非家长不想管，而是整日忙于土里刨食没能力管，长大独自离家在江湖上飘荡觅食，翅膀练硬飞远了，更是无奈伸手够不着
+
+   ，且能独立办好买房，结婚，生娃等世俗问题。探索不赚钱的事情，经济保障非常重要，所幸生在一个网络时代，我们这些IT背景的人如鱼得水，可能比任何一个其他行业都要自由些，只要别想大富大贵，一般中产的生存质量当然会有的；  
+
 4. 天性爱好：许多人将做公益定义得特别高尚，其实这纯属个人三观和兴趣，与什么学历文化道德素质无关，在普世价值和法律框架下规矩生存的人，无论做不做公益都是正常人，也就是欠发达地区落后社会里定义的好人，做个正常人就好了，世界本来就应该的样子。若非职业投资银行家，而每天考虑怎么赚钱的人是没出息的，人这辈子总要做一些和赚钱无关，但是能让自己高兴一下的事情吧，这样想于是这样做了，就这么简单；
 
 可能是我真滴很喜欢公益或社会企业的理念，但是还没找到一条可持续的事业路径，下次再总结下我参与的一些商业项目的经历和特点作参考。  
