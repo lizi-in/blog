@@ -1,9 +1,9 @@
 # Table of contents
 
 * [组织简介](README.md)
-* [个人简介](cv/README.md)
-  * [经历：商业经营](cv/cv-commerce.md)
-  * [经历：社会活动](cv/cv-npo.md)
+* [个人简介](atom/README.md)
+  * [经历：商业经营](atom/cv.md)
+  * [经历：社会活动](atom/npo.md)
 
 ## 故事心得 <a id="story"></a>
 
