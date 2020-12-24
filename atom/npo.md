@@ -1,5 +1,5 @@
 ---
-description: 一些有意思的项目
+description: 一些有意思的事情
 ---
 
 # 经历：社会活动

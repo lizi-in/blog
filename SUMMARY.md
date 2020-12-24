@@ -2,7 +2,7 @@
 
 * [关于博客](README.md)
 * [个人简介](atom/README.md)
-  * [经历：商业经营](atom/cv.md)
+  * [经历：商业项目](atom/cv.md)
   * [经历：社会活动](atom/npo.md)
 
 ## 故事心得 <a id="story"></a>
