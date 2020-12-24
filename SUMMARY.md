@@ -1,10 +1,12 @@
 # Table of contents
 
-* [关于](README.md)
+* [组织简介](README.md)
+* [个人简介](cv/README.md)
+  * [经历：商业经营](cv/cv-commerce.md)
+  * [经历：社会活动](cv/cv-npo.md)
 
 ## 故事心得 <a id="story"></a>
 
-* [一些有意思的项目](story/npo.md)
 * [一项可能阻止中美战争的抗疫方案](story/fight-2019-ncov/README.md)
   * [写给梁冬老师的信](story/fight-2019-ncov/xie-gei-liang-dong-lao-shi-de-xin.md)
   * [新冠防治手册-治疗篇](story/fight-2019-ncov/xin-guan-fang-zhi-shou-ce-zhi-liao-pian.md)
