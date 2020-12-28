@@ -26,7 +26,7 @@
 
 以及曾经为政府，企业，公益组织提供农业+互联网业务的培训咨询，深入调研探索过餐饮业、植物肉、替代蛋白或替代动物产品的市场。  
   
-经历：商业经营 [https://blog.lizi.in/atom/cv ](https://blog.lizi.in/atom/cv)  
+经历：商业项目 [https://blog.lizi.in/atom/cv ](https://blog.lizi.in/atom/cv)  
 
 
 
