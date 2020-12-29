@@ -32,6 +32,12 @@ CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于
 
 
 
+### 环境系列：全球最佳纪录片 \| 带你认识真实的世界（2020版） <a id="activity-name"></a>
+
+{% embed url="https://mp.weixin.qq.com/s/Q55tbspyWN-LSeRFdtaoSg" %}
+
+
+
 ### 冲浪普拉斯
 
 财经视频自媒体，爆这么多料，居然没有被屏蔽，还活得好好的，有实力。  
