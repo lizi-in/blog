@@ -51,6 +51,7 @@
 * [怎样学英语](story/learn-en.md)
 * [从SARS和武汉肺炎谈到吃的问题](story/2019-ncov.md)
 * [从网络流氓谈起](story/cong-wang-luo-liu-mang-tan-qi.md)
+* [沧浪书院：一个惊为天人的地方](story/cang-lang-shu-yuan-yi-ge-jing-wei-tian-ren-de-di-fang.md)
 
 ## 资源分享 <a id="share"></a>
 

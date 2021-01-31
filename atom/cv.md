@@ -10,9 +10,9 @@ description: 一些有意思的事情
 
 ### 2020 媒体和web开发
 
- **服务单位：**  
- 南德经济集团 [https://qizhong.land/](https://qizhong.land/)  
- 南德档案馆 [https://doc.qizhong.land/](https://doc.qizhong.land/)  
+**服务单位：**  
+南德经济集团 [https://qizhong.land/](https://qizhong.land/)  
+南德档案馆 [https://doc.qizhong.land/](https://doc.qizhong.land/)  
   
 **项目概述：**  
 历史影像资料音视频编辑，原企业报《南德视界》的电子版制作，纪录片策划等；  
@@ -25,12 +25,12 @@ description: 一些有意思的事情
 ### 2018.6-7 社区店O2O运营
 
   
- **服务单位：**永辉云创科技有限公司  
+**服务单位：**永辉云创科技有限公司  
   
- **项目概述：**任平台产品运营专家，主要工作包括  
+**项目概述：**任平台产品运营专家，主要工作包括  
   
 为应对数百个”永辉生活“便利店的业务扩张，探索生鲜电商和宅配模式，调研社区周边业态，前置仓、干线和支线物流及最后3公里配送，便利店O2O线上线下活动和用户运营，平台产品创新，数据分析，项目综合运营管理优化等。  
- [http://www.yonghuivip.com](http://www.yonghuivip.com)  
+[http://www.yonghuivip.com](http://www.yonghuivip.com)  
   
 
 
@@ -102,10 +102,10 @@ description: 一些有意思的事情
   
 
 
-## 2004.11-2009.10 商贸翻译和IT
+## 2004.11-2009.10 IT和翻译
 
   
- **服务单位：**北京旅游咨询服务中心  
+ **服务单位：**北京旅游人才市场/ 旅游咨询服务中心  
   
  **项目概述：**从事涉外商贸业务的外包工作，主要包括
 
@@ -114,20 +114,20 @@ description: 一些有意思的事情
 
 ### 2008 网络信息安全
 
- **服务单位：**Gwebs [http://www.gwebs.com/](http://www.gwebs.com/)  
+**服务单位：**Gwebs [http://www.gwebs.com/](http://www.gwebs.com/)  
   
- **项目概述：**从事web前端开发，软件测试和翻译，市场营销资料和用户手册制作，主要包括  
- Gweb 团队主攻网络信息安全研发，主要作品包括MailCloak邮件内容加密软件，基于GnuPG开源的非对称算法的超强安全加密保护，防黑客攻击窥测和意外原因导致的信息泄密。兼容各大主流的邮件客户端和浏览器web版本，支持Gmail，Yahoo，Microsoft等各大邮件域，及IE、火狐等主要浏览器。  
+**项目概述：**从事web前端开发，软件测试和翻译，市场营销资料和用户手册制作，主要包括  
   
- 做太超前的事业，总是容易成为先烈，缅怀Gwebs的网络档案：[https://web.archive.org/web/20140330134456/http://www.gwebs.com/](https://web.archive.org/web/20140330134456/http://www.gwebs.com/)  
+Gweb 团队主攻网络信息安全研发，主要作品包括MailCloak邮件内容加密软件，基于GnuPG开源的非对称算法的超强安全加密保护，防黑客攻击窥测和意外原因导致的信息泄密。兼容各大主流的邮件客户端和浏览器web版本，支持Gmail，Yahoo，Microsoft等各大邮件域，及IE、火狐等主要浏览器。  
   
- 百科：电子邮封  
- [https://m.baike.com/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81/1759596](https://m.baike.com/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81/1759596)  
- [https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81)  
+做太超前的事业，总是容易成为先烈，缅怀Gwebs的网络档案：[https://web.archive.org/web/20140330134456/http://www.gwebs.com/](https://web.archive.org/web/20140330134456/http://www.gwebs.com/)  
   
- 附加材料  
- 电子邮件加密技术初探 [https://zhaokaifeng.com/?p=160](https://zhaokaifeng.com/?p=160)  
- 中科院的mailcloak介绍 [http://help.cstnet.cn/zhishiku/zhishiku\_huizong.html](http://help.cstnet.cn/zhishiku/zhishiku_huizong.html)  
+百科：电子邮封 [https://m.baike.com/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81/1759596](https://m.baike.com/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81/1759596)  
+[https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E9%82%AE%E5%B0%81)  
+  
+附加材料  
+电子邮件加密技术初探 [https://zhaokaifeng.com/?p=160](https://zhaokaifeng.com/?p=160)  
+中科院的mailcloak介绍 [http://help.cstnet.cn/zhishiku/zhishiku\_huizong.html](http://help.cstnet.cn/zhishiku/zhishiku_huizong.html)  
   
   
 
