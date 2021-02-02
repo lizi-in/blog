@@ -2,8 +2,9 @@
 
 * [关于博客](README.md)
 * [个人简介](atom/README.md)
-  * [个人项目经历](atom/cv.md)
-  * [社群项目经历](atom/npo.md)
+  * [经历：商业项目](atom/cv.md)
+  * [经历：社会活动](atom/npo.md)
+  * [总结：自我分析](atom/summary.md)
 
 ## 故事心得 <a id="story"></a>
 

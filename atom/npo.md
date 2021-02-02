@@ -1,4 +1,4 @@
-# 社群项目经历
+# 经历：社会活动
 
 ## 2015- 至今 咨询师
 
@@ -101,23 +101,90 @@ BYOE软件：[http://www.buildyourownearth.com/](http://www.buildyourownearth.co
 B站：[https://space.bilibili.com/10633017](https://space.bilibili.com/10633017)  
 
 
-## 关键因素分析
+## 2010- 2012 农业和农村发展
 
+
+
+### 2010.3- 2012.5 生态农业推广
+
+项目地点：北京. 海淀区  
   
-作为CC讲坛的老听众，博主某次参加CC讲坛的线下活动，认识了几个老师，然后问起职业经历，蓦然回首，发现自己过去10多年非常地不务正业，不知不觉已经参与了很多与CC讲坛主旨接近的项目，于是将主要事件按时间排序，参考项目经历，部分文件链接可能丢失，详情可邮件博主获悉。
+**协作单位：**  
+北京有机农夫市集  
+北京小毛驴市民农园  
+中国人民大学农业与农村发展学院  
+  
+**项目概述：**  
+从事农夫市集及合作农场组织发展，乡村建设志愿者工作，推广社区支持农业 CSA\(community support agriculture\)网络；  
+为小毛驴农园提供 IT 运维技术支持，网站和论坛开发、微博等网络社群管理；  
+农场客户关系管理 CRM 、小型呼叫中心、农场会员订购和配送排班系统的原型设计、软件开发外包、测试和日常运维等；  
+销售”生鲜宅配套餐“，”农场租地套餐“，家庭会员超过3000户，年均增长率超过200%，该项目（可能）开创中国最早的生鲜电商和私家农场定制的案例；  
 
-项目主要特点：
 
-1. 全部都是需要有钱有闲的方式生产出来，没有收入，只能业余做志愿者，不能当成一份事业可持续地做；
-2. 多次涉及到联合国的项目，名头都整得特别高大上的样子，有许多是特别务虚的，除了烧钱摆排场，没有什么实际成效和结果；
-3. 随着时代推移，越来越依赖于互联网的远程协作，所以就没有项目地理位置和时间的概念了，这是未来的主要发展方式；
+###  2011.12 生态文明和乡村建设考察
 
-一些朋友同事知道这些经历后，很惊讶博主是不是富二代或留学海龟，何以人生如此潇洒？好像不需要为生活着想一样，这得益于以下几个因素：
+项目地点：香港、浙江、上海、江苏  
+  
+**协作单位：**  
+联合国开发计划署 United Nations Development Program \(UNDP\)  
+南南可持续发展论坛 South South Forum on Sustainability\(SSFS\)  
+  
+**项目概述：**  
+为专家组提供在中国东部（江浙沪）考察团全程翻译助理服务，内容主要为生态文明、三农问题和乡村建设，可持续发展等议题的调研和考察；  
+  
+项目材料：  
+中文 [https://commons.ln.edu.hk/southsouthforum/2011/](https://commons.ln.edu.hk/southsouthforum/2011/)  
+英文 [https://our-global-u.org/oguorg/en/the-first-south-south-forum-on-sustainability/](https://our-global-u.org/oguorg/en/the-first-south-south-forum-on-sustainability/)  
+  
 
-1. 选对职业：从18线乡镇农村高中毕业后，博主和大多数农家娃一样是没见识的，资讯来自于电视和报刊，隐约感觉计算机互联网是未来趋势，于是就选了电商和IT方向，由于没有好好学习，只是上了个8流的职业技术学校，当时给自己做主的人生规划，很实在的想法是，学个技术手艺可以尽早工作，非常建议平民家的孩子都首选学IT，能更早走出去独立生存； 
-2. 掌握语言：离开学校之前几乎没有英语及格过，也不会说和听，由于喜欢看好英文大片，所以有兴趣学外语，都是进入社会工作后，自己野路子摸索出来的，英语稍微熟练后，在IT和互联网加持下，眼界和知识面得到极大拓展，打破了常规的地理位置空间和时间（时空）限制。例如在偏远落后地区从事农业项目志愿者，一样可以获得海外的媒体和公益组织的关注，于是有许多跨境和跨界的文化交流机会，这比那些在城里老实上班的高学历白领同学们更多机会用到实景的英文，也比商业公司里更开阔眼界和思维； 
-3. 爹妈不管：本家世代贫农，并非家长不想管，而是整日忙于土里刨食没能力管，长大独自离家在江湖上飘荡觅食，翅膀练硬飞远了，他们更是无奈伸手够不着。探索不赚钱的事情，经济保障非常重要，所幸生在一个网络时代，我们这些IT背景的人如鱼得水，可能比任何一个其他行业都要自由些，只要别想大富大贵，一般中产的生存质量会有的； 
-4. 天性爱好：许多人将做公益定义得特别高尚，其实这纯属个人三观和兴趣，与什么学历文化道德素质无关，在普世价值和法律框架下规矩生存的人，无论做不做公益都是正常人，也就是欠发达地区落后社会里定义的好人，做个正常人就好了，世界本来就应该的样子。若非职业投资银行家，而每天考虑怎么赚钱是非常无聊的，人这辈子总要做一些和赚钱无关，但是能让自己感到人生有意义的和高兴的事情吧，顺随本性不做就不愉快，就这么简单；
 
-可能很多人都喜欢公益或社会企业的理念，但是难以找到一条可持续的事业路径，不得不在公益和商业之间切换。
+### 2011.11 城市农耕调研工作坊
+
+项目地点：香港  
+  
+**协作单位：**  
+Partner for Community Development 社區夥伴PCD [https://www.pcd.org.hk/](https://www.pcd.org.hk/)  
+Kadoorie Farm and Botanic Garden \(KFBG\) 嘉道理农场暨植物园 [https://www.kfbg.org/](https://www.kfbg.org/)  
+  
+**项目概述：**  
+参观走访香港传统的有机农场，新兴的Permaculture（朴门）永续栽培学校，城市社区和阳台种植，注重农耕文化、自然和食物教育的城市小学，农村社区和城乡互动市集，生鲜便利店和有机餐厅，香港乡村历史博物馆，特殊人群社会福利事业（社会企业），公益基金会和植物园等。  
+通过考察调研和工作坊讨论的方式，以香港为代表的高度发达的现代化城市案例，可窥见有特色的岭南农耕文化与今天特定的地域格局的关系，农业在都市中具有不可缺少的多重角色，及发挥着重要的支撑功能。  
+  
+查阅报告：香港“城市農耕”\(待传链接\)  
+  
+
+
+### 2011.2-4 乡村社区运营和商业方案
+
+项目地点：重庆. 巫溪  
+  
+**协作单位：**  
+GVB，北京地球村环境教育中心 Global Village of Beijing [http://www.chinadevelopmentbrief.org.cn/org660/](http://www.chinadevelopmentbrief.org.cn/org660/)  
+GIFT，全球未来研究所 Global Institute For Tomorrow [https://global-inst.com/](https://global-inst.com/)  
+AIA，美国国际保险集团 American International Assurance  
+  
+**项目概述：**  
+辅助外部的公益组织和基金会等合作机构，与重庆巫溪县政府和当地企业与社区之间的沟通协作，探索研究可持续乡村发展商业方案，及地球村乐和家园项目运营管理等。  
+  
+**项目材料：**  
+[https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi](https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi)  
+[https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html](https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html)  
+  
+
+
+## 2006.10 环境会议翻译助理
+
+项目地点：北京  
+  
+**服务单位：**  
+UNEP，United Nations Environment Program 联合国环境规划署 ；  
+GPA，The Global Program of Action for the Protection of the Marine Environment from Land-based Activities 《保护海洋环境免受陆上活动污染全球行动纲领》；  
+IGR-2，Second Intergovernmental Review Meeting on the Implementation of the GPA 执行情况政府间审查第二届会议 ；  
+  
+**项目概述：**  
+任UNEP/GPA/IGR-2 会务组工作人员，为全球 100 余国家参会代表提供旅行、会务组织、文件翻译等服务。
+
+**项目材料：**  
+英文 [https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/governing-global-programme-4](https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/governing-global-programme-4)  
+中文 [http://www.mee.gov.cn/home/ztbd/rdzl/hyhj/zl/200610/P020061009589836389579.pdf](http://www.mee.gov.cn/home/ztbd/rdzl/hyhj/zl/200610/P020061009589836389579.pdf)
 
