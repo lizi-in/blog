@@ -50,7 +50,7 @@
 * [从北大附中学生围攻鹿鸣说起](story/foul.md)
 * [我的学习经历](story/learn-how.md)
 * [怎样学英语](story/learn-en.md)
-* [从SARS和武汉肺炎谈到吃的问题](story/2019-ncov.md)
+* [从SARS和新冠谈到吃的问题](story/2019-ncov.md)
 * [面对网络流氓，我们该咋办？](story/thugnet.md)
 * [沧浪书院：一个惊为天人的地方](story/cang-lang-shu-yuan-yi-ge-jing-wei-tian-ren-de-di-fang.md)
 
