@@ -109,9 +109,11 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ## **聊天通讯**
 
-因网络安全问题，不推荐用QQ, 微信等做日常交流，更不合适工作，请勿将重要工作文件通过这些聊天软件传递。
+处于网络安全考虑，请勿将重要工作文件通过一般社交软件传递。很多人习惯用QQ, 微信等做日常工作，为什么不行？因为微信等社交工具的设计出发点，主要是用于娱乐社交，不是专业工作用途，信息碎片化，封闭的共享机制，文件和信息重复、低效率，不利于理清工作的前后逻辑关系。对比salesforce等专业的在线协作工具平台，其用户体验、功能、效率是天壤之别。
 
-**Telegram**，业界目前最好的聊天通讯工具，创始人传奇经历 [https://www.tmtpost.com/1443098.html](https://www.tmtpost.com/1443098.html) [https://zh.wikipedia.org/zh/Telegram](https://zh.wikipedia.org/zh/Telegram)
+参考：为什么我不在微信公众号上写文章 [https://coolshell.cn/articles/17391.html](https://coolshell.cn/articles/17391.html)
+
+**Telegram**，业界目前最好的聊天通讯工具，创始人传奇经历 [https://www.tmtpost.com/1443098.html](https://www.tmtpost.com/1443098.html) 、[https://zh.wikipedia.org/zh/Telegram](https://zh.wikipedia.org/zh/Telegram)
 
 **Slack**，世界五百强及top10互联网公司技术开发团队常用的协作工具，可以在slack里安装各种应用，例如google drive，zoom，quip等，将你的其他平台工具和工作加载到统一的团队协作中管理，经过测试还比较好用；
 
