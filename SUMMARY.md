@@ -53,7 +53,7 @@
 * [怎样学英语](story/learn-en.md)
 * [从SARS和新冠谈到吃的问题](story/2019-ncov.md)
 * [如何应对流氓的网络世界？](story/thugnet.md)
-* [沧浪书院：一个惊为天人居住的地方](story/cang-lang-shu-yuan-yi-ge-jing-wei-tian-ren-de-di-fang.md)
+* [沧浪书院：一个惊为天人的神奇之地](story/cang-lang-shu-yuan-yi-ge-jing-wei-tian-ren-de-di-fang.md)
 
 ## 资源分享 <a id="share"></a>
 
