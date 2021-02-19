@@ -106,9 +106,9 @@
   
 随着病毒全球传播，人们被迫隔离不得以开展网络协作，中文媒体中热传过Megaease创始人谈远程工作的文章，就是前文提到的左耳朵耗子，我们认识后交流了很多，关于组织发展的理念是趋同的，因此确认过眼神，我们就是可以合作的同类。  
   
-耗哥的这些方法其实也不是自创的，而是来自于早年在亚马逊等科技公司的训练实践，如今崇尚远程工作文化的组织愈来愈多，在中国普及还有待时日，等不及的朋友可以参考案例，如Automattic，Basecamp等，我一直在推荐大家用的共享文档Quip，其母公司salesforce是全球最好用的商业SAAS和线上协作软件平台之一，他们并投资了业界知名的Automattic公司 [https://www.geekpark.net/news/255260](https://slack-redir.net/link?url=https%3A%2F%2Fwww.geekpark.net%2Fnews%2F255260)，而Automattic是全球用户量最大的开源博客软件 wordpress的母公司，是全球最早支持所有员工远程工作的创新公司。  
+耗哥的这些方法其实也不是自创的，而是来自于早年在亚马逊等科技公司的训练实践，如今崇尚远程工作文化的组织愈来愈多，在中国普及还有待时日，等不及的朋友可以参考案例，如Automattic，Basecamp等，我一直在推荐大家用的共享文档Quip，其母公司salesforce是全球最好用的商业SAAS和线上协作软件平台之一，他们并投资了Automattic公司 [https://www.geekpark.net/news/255260](https://slack-redir.net/link?url=https%3A%2F%2Fwww.geekpark.net%2Fnews%2F255260)，旗下有知名的开源博客软件 wordpress，他们是全球最早支持所有员工远程工作的创新组织。  
   
-我很喜欢quip产品生态圈，自2014年开始成为忠实用户。  
+这些相互关系的渊源很深，我很喜欢quip产品生态圈，自2014年开始成为忠实用户。  
 
 
 ### **管理体系设计和实施**
