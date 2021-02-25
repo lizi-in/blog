@@ -8,7 +8,8 @@
 
 ## 故事心得 <a id="story"></a>
 
-* [事业线：人-团队-方法-工具](story/career-line.md)
+* [我们该接受什么样的教育？](story/edu.md)
+* [职业路线：人-团队-方法-工具](story/career-line.md)
 * [一项可能阻止中美战争的抗疫方案](story/fight-2019-ncov/README.md)
   * [写给梁冬老师的信](story/fight-2019-ncov/xie-gei-liang-dong-lao-shi-de-xin.md)
   * [新冠防治手册-治疗篇](story/fight-2019-ncov/xin-guan-fang-zhi-shou-ce-zhi-liao-pian.md)

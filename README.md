@@ -1,5 +1,5 @@
 ---
-description: Lizi Insight - 里子：抛开面子，洞察里子，追寻本质
+description: Lizi Insight - 里子：抛开面子，洞察里子，追寻本质，新二十年目睹之怪现状。
 ---
 
 # 关于博客
