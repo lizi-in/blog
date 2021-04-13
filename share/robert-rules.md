@@ -22,5 +22,5 @@
 
 ### 相关文章
 
-{% page-ref page="../story/foul.md" %}
+{% page-ref page="../life-experience/foul.md" %}
 
