@@ -7,7 +7,7 @@ description: 2021.5.1
 最近听到很多中文视频主播的阴谋论节目，这些话题在全世界范围流传了很久，例如：  
 罗斯柴尔德家族、Deep state 影子政府、Freemason 共济会、Skull & Bones 骷髅会  
   
- Skull & Bones 骷髅会 [https://en.wikipedia.org/wiki/Skull\_and\_Bones\#External\_links](https://en.wikipedia.org/wiki/Skull_and_Bones#External_links)  
+ Skull & Bones 骷髅会 [https://en.wikipedia.org/wiki/Skull\_and\_Bones](https://en.wikipedia.org/wiki/Skull_and_Bones)  
  Freemason 共济会 [https://en.wikipedia.org/wiki/Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)  
   
  由于涉及到复杂的政治，不是我们普通人能涉足的领域，而且信息量太大，没办法一个个去看完，建议朋友们敬鬼神而远之，不要沉迷在里面浪费生命，偶尔当做休闲听鬼故事就好了。  
