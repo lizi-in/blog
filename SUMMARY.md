@@ -8,6 +8,7 @@
 
 ## 人生经历 <a id="career"></a>
 
+* [阴谋 VS. 阳谋](career/conspire.md)
 * [我们该接受什么样的教育？](career/edu.md)
 * [职业路线：人-团队-方法-工具](career/career-line.md)
 * [一项可能阻止中美战争的抗疫方案](career/fight-2019-ncov/README.md)
