@@ -8,6 +8,8 @@
 
 ## 人生经历 <a id="career"></a>
 
+* [农村问题](career/rural-error/README.md)
+  * [从鞭炮看到社会群体的缺陷](career/rural-error/cong-bian-pao-kan-dao-she-hui-qun-ti-de-que-xian.md)
 * [阴谋 VS. 阳谋](career/conspire.md)
 * [我们该接受什么样的教育？](career/edu.md)
 * [职业路线：人-团队-方法-工具](career/career-line.md)
