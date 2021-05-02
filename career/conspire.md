@@ -54,7 +54,35 @@ THE TRILATERAL COMMISSION 三极会 [https://trilateral.org/page/3/about-trilate
 
 ## 结尾
 
-  
  以上的办法也可用于其他任何领域的信息鉴别，毕竟长期以来我们的环境中就充满了造假的产品和谣言，学会鉴别信息是人生必备技能，可防止割韭菜，有益智健身之功效。  
+
+
+## 资讯来源
+
+  
+ 经过国际媒体业广泛评估，具备editorial standard and fact checking的比较中立客观的可信新闻来源清单如下：
+
+### North America area
+
+ **The Independant**  
+ New York Times [**https://www.nytimes.com/**](https://www.nytimes.com/)  
+ The Guardian [https://www.theguardian.com/](https://www.theguardian.com/)  
+ Washington Post [https://www.washingtonpost.com/](https://www.washingtonpost.com/)  
+  
+ **Generally reliable “liberal media”**  
+ The New Yorker[https://www.newyorker.com/](https://www.newyorker.com/)  
+  
+ **Conservative opinion**  
+ Wall Street journal [https://www.wsj.com/](https://www.wsj.com/)  
+ Financial Times [https://www.ft.com/](https://www.ft.com/)  
+ The economist [https://www.economist.com/](https://www.economist.com/)  
+
+
+### Middle east area
+
+ Al Jazeera [https://www.aljazeera.com/](https://www.aljazeera.com/)  
+  
+ 为了看懂新闻，建议参加英文能力考试：雅思 IELTS- International English Language Testing System Exam  
+  
 
 
