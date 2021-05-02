@@ -28,7 +28,11 @@ description: 2021.5.1
 THE TRILATERAL COMMISSION 三极会 [https://trilateral.org/page/3/about-trilateral](https://trilateral.org/page/3/about-trilateral)  
 彼得堡俱乐部 [http://www.bilderbergmeetings.org/](http://www.bilderbergmeetings.org/)  
   
- 这些有长期稳固的机构背景的信息比那些完全找不到来源的小道消息可靠，他们的透明度相当高，高到直接将内部会议信息发布公告，不忌讳让敌对方获悉其战略意图和计划目标，例如在某军事超级大国的国防部和外交部网站上可查询到这类高度透明的信息。
+ 这些有长期稳固的机构背景的信息比那些完全找不到来源的小道消息可靠，他们的透明度相当高，高到直接将内部会议信息发布公告，根本不忌讳让敌对方获悉其战略意图和计划目标，例如在某军事超级大国的国防部和外交部网站上可查询到这类信息。
+
+相反，某些渠道的信息语焉不详，遮遮掩掩，或者根本就是暗箱，这类信息来源可以直接判别为不可采纳，直接忽略掉。
+
+
 
 ### **二. 对比分析**
 
