@@ -1,7 +1,7 @@
 # 个人简介
 
 **小匡**  
-通过IT和运营技术，致力于提高项目的质量（安全性，效率，健康，舒适，环境友好，文创）水平。崇尚极客、开源软件、分布式自治组织、数字游民、远程工作社区。
+通过IT和运营技术，致力于提高项目的质量（安全性，效率，健康，舒适，环境友好，文创）水平。崇尚极客、开源软件、分布式自治组织、数字游民、远程工作。
 
 ### **职能背景：IT和电商**
 
@@ -19,7 +19,7 @@
 
 曾经为数十家地方政府、企业、公益组织提供农业+互联网业务的培训咨询，深入调研过植物基蛋白/人造肉、替代动物产品的市场。  
   
-经历：商业项目 [https://blog.lizi.in/atom/cv ](https://blog.lizi.in/atom/cv)  
+经历：商业项目 [https://atom-x.gitbook.io/li-blog/atom/cv](https://atom-x.gitbook.io/li-blog/atom/cv)  
 
 
 ### **社会活动：环境和公益**
@@ -30,7 +30,7 @@
 
 观看过大部分BBC系列的经典环境纪录片，曾组织和培训义工字幕组，累计编译超过120节科普短视频和名校公开课，主题为：环境保护、生物、动物、农业、食品安全、健康、可持续发展等，其中包括中国大陆最早的动物福利的科普。  
   
- 经历：社会活动 [https://blog.lizi.in/atom/npo](https://blog.lizi.in/atom/npo)  
+ 经历：社会活动 [https://atom-x.gitbook.io/li-blog/atom/npo](https://atom-x.gitbook.io/li-blog/atom/npo)  
   
   
   
