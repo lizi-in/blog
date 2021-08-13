@@ -78,6 +78,6 @@ http://www.xinhuanet.com/newmedia/2018-07/30/c\_137357517.htm](http://www.xinhua
 如何应对流氓网络的封锁和割韭菜？得用一套不同的工具和平台突围，详情查阅：
 
 {% hint style="info" %}
-软件工具库- 高效高质量的工作/ 学习/ 休闲装备[https://blog.lizi.in/share/efficiency](https://blog.lizi.in/share/efficiency)
+软件工具库- 高效高质量的工作/ 学习/ 休闲装备 [https://atom-x.gitbook.io/li-blog/share/efficiency](https://atom-x.gitbook.io/li-blog/share/efficiency)
 {% endhint %}
 
