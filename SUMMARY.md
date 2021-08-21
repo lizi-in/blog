@@ -13,6 +13,7 @@
 * [阴谋 VS. 阳谋](career/conspire.md)
 * [我们该接受什么样的教育？](career/edu.md)
 * [职业路线：人-团队-方法-工具](career/career-line.md)
+* [PSMD是为脑机接口准备的](career/psmd.md)
 * [一项可能阻止中美战争的抗疫方案](career/fight-2019-ncov/README.md)
   * [写给梁冬老师的信](career/fight-2019-ncov/xie-gei-liang-dong-lao-shi-de-xin.md)
   * [新冠防治手册-治疗篇](career/fight-2019-ncov/xin-guan-fang-zhi-shou-ce-zhi-liao-pian.md)
