@@ -1,7 +1,9 @@
 # PSMD是为脑机接口准备的
 
 **PSMD（Pivot Structure Modeling and Deploy）管理体系设计和实施**  
- PSMD培养共同体建模、部署人员，帮助适应分布式自治组织\( Distributed Autonomous Community\)的需要。它本身是开放、半自助的共同体。 [http://xuemen.github.io/PSMD/](http://xuemen.github.io/PSMD/) [https://github.com/xuemen/PSMD/blob/master/README.md](https://github.com/xuemen/PSMD/blob/master/README.md)
+ PSMD培养共同体建模、部署人员，帮助适应分布式自治组织\( Distributed Autonomous Community\)的需要。它本身是开放、半自助的共同体。   
+[http://xuemen.github.io/PSMD/](http://xuemen.github.io/PSMD/)   
+[https://github.com/xuemen/PSMD/blob/master/README.md](https://github.com/xuemen/PSMD/blob/master/README.md)
 
 以上是PSMD的简介，有人看得懂吗？为什么要提这个？从源头说起吧。
 

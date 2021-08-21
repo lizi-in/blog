@@ -116,7 +116,8 @@
 PSMD （Pivot Structure Modeling and Deploy）  
 PSMD培养共同体建模、部署人员，帮助适应分布式自治组织\( Distributed Autonomous Community\)的需要。它本身是开放、半自助的共同体。
 
-说明参考这篇 [https://app.gitbook.com/@atom-x/s/li-blog/~/drafts/-MhdGaOjC\_CNmUrYvBHC/career/psmd](https://app.gitbook.com/@atom-x/s/li-blog/~/drafts/-MhdGaOjC_CNmUrYvBHC/career/psmd)  
+说明参考这篇   
+[https://atom-x.gitbook.io/li-blog/career/psmd](https://atom-x.gitbook.io/li-blog/career/psmd)  
   
    
 
