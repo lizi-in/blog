@@ -8,6 +8,8 @@
 
 ## 人生经历 <a id="career"></a>
 
+* [log- 草稿](career/log-draft.md)
+* [离去是新生的开始](career/left.md)
 * [农村问题](career/rural-error/README.md)
   * [从鞭炮看到社会群体的缺陷](career/rural-error/cong-bian-pao-kan-dao-she-hui-qun-ti-de-que-xian.md)
 * [阴谋 VS. 阳谋](career/conspire.md)
