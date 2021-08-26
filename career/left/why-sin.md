@@ -35,19 +35,6 @@ description: 2021.8.15
 
 ……
 
-## 材料收集：宗教和科学
-
-佛教不是迷信吗？哪些科学家在谈佛教？福建葉先生推薦了2位：
-
-潘宗光 [https://profpoon.org/](https://profpoon.org/)  
-朱清時 [https://zh.wikipedia.org/wiki/朱清时](https://zh.wikipedia.org/wiki/%E6%9C%B1%E6%B8%85%E6%97%B6)
-
-前凤凰卫视主持人梁冬先生，我见过他两次，知道他喜欢采访宗教和文化界名人，各种讲座和节目非常多，但是我当时对宗教并没有兴趣，没有看他采访佛教界的影像，后查阅到以下相关资料：[https://www.youtube.com/channel/UCRvhmBJOln01fypWkp6t0jw](https://www.youtube.com/channel/UCRvhmBJOln01fypWkp6t0jw)
-
-很遺憾，《生命. 覺者》系列發行推廣沒有後續做。
-
-
-
 ## 佛教BGM
 
 佛经看不下去，就听音乐吧，根据前辈指导，选了这两个简单点的。
@@ -69,6 +56,19 @@ Yellow Dzambhala \(Buddha of Wealth\) Mantra: om, zhen ba la, cha leng cha na ye
 {% endhint %}
 
 以前听过一个版本的黄财神，声音低沉，可能是用颂钵敲出来的，配合资深修行的大喇嘛嗡嗡的咒语，像是来自宇宙的声音，非常好听，但是现在找不到了，当做BGM背景音乐特别好，人类听了千百年也没有变疯傻痴呆，反而有宗教信仰的人相对是比较优秀的，这就可以放心听，至少不会有什么损失，这样的BGM比时下一下流行乐的洗脑神曲要强多了，因为流行乐会吸掉粉丝的财，而听黄财神和莲师，据说多听听可以发财和带来好运。
+
+## 材料收集：宗教和科学
+
+佛教不是迷信吗？哪些科学家在谈佛教？福建葉先生推薦了2位：
+
+潘宗光 [https://profpoon.org/](https://profpoon.org/)  
+朱清時 [https://zh.wikipedia.org/wiki/朱清时](https://zh.wikipedia.org/wiki/%E6%9C%B1%E6%B8%85%E6%97%B6)
+
+前凤凰卫视主持人梁冬先生，我见过他两次，知道他喜欢采访宗教和文化界名人，各种讲座和节目非常多，但是我当时对宗教并没有兴趣，没有看他采访佛教界的影像，后查阅到以下相关资料：[https://www.youtube.com/channel/UCRvhmBJOln01fypWkp6t0jw](https://www.youtube.com/channel/UCRvhmBJOln01fypWkp6t0jw)
+
+很遺憾，《生命. 覺者》系列發行推廣沒有後續做。
+
+
 
 
 
