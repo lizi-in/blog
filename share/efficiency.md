@@ -225,7 +225,7 @@ Whova
 
 开会方法，会议程序，推荐**罗伯特议事规则**，学习罗规的好处是，摒弃和人讨论交流时的坏习气，例如不讲规则，情绪化，主观，非理性，缺乏思维逻辑。将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中；其重要性可参考站内的其他文章：
 
-{% page-ref page="../career/foul.md" %}
+{% page-ref page="../career-cn/foul.md" %}
 
 {% page-ref page="robert-rules.md" %}
 
