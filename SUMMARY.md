@@ -13,6 +13,7 @@
   * [为什么说都是跪着挣钱的？](career/left/why-sin.md)
   * [《莲师心咒日常简易修持方法》](career/left/padmasambhava.md)
   * [意外身故遗书](career/left/yi-wai-shen-gu-yi-shu.md)
+  * [纪念和王靖涛兄交往的岁月](career/left/wjt.md)
 * [农村问题](career/rural-error/README.md)
   * [从鞭炮看到社会群体的缺陷](career/rural-error/cong-bian-pao-kan-dao-she-hui-qun-ti-de-que-xian.md)
 * [阴谋 VS. 阳谋](career/conspire.md)
