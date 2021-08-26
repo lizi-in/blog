@@ -111,13 +111,13 @@
 这些相互关系的渊源很深，我很喜欢quip产品生态圈，自2014年开始成为忠实用户。  
 
 
-### **管理体系设计和实施**
+### **PSMD**
 
-PSMD （Pivot Structure Modeling and Deploy）  
+PSMD（Pivot Structure Modeling and Deploy）管理体系设计和实施  
 PSMD培养共同体建模、部署人员，帮助适应分布式自治组织\( Distributed Autonomous Community\)的需要。它本身是开放、半自助的共同体。
 
-说明参考这篇   
-[https://atom-x.gitbook.io/li-blog/career/psmd](https://atom-x.gitbook.io/li-blog/career/psmd)  
+**具体说明参考：**  
+PSMD是为脑机接口准备的 https://atomxx.gitbook.io/blog/career/psmd  
   
    
 
