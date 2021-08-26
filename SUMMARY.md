@@ -10,7 +10,7 @@
 
 * [log日志临时草稿](career/log-draft.md)
 * [离去是新生的开始](career/left/README.md)
-  * [为什么说都是跪着挣钱的](career/left/why-sin.md)
+  * [为什么说都是跪着挣钱的？](career/left/why-sin.md)
   * [《莲师心咒日常简易修持方法》](career/left/padmasambhava.md)
 * [农村问题](career/rural-error/README.md)
   * [从鞭炮看到社会群体的缺陷](career/rural-error/cong-bian-pao-kan-dao-she-hui-qun-ti-de-que-xian.md)
