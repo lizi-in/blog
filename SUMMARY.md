@@ -2,7 +2,7 @@
 
 * [About](README.md)
 
-## career <a id="career-en"></a>
+## career
 
-* [log- temporary](career-en/log-temporary.md)
+* [log- temporary](career/log-temporary.md)
 
