@@ -2,9 +2,9 @@
 
 **I plan to immigrate to other countries**
 
-Yes, I read lots of immigration policies of the whole world, I only consider the OECD- developed country lists: US, UK, Canada, New Zealand, Japan, Australia, Singapore, West and North Europe, they are probably English speaking countries.
+Yes, I read lots of immigration policies of the whole world, I only consider the OECD- developed country lists: US, UK, Canada, New Zealand, Japan, Australia, Singapore, West & North Europe, they are probably English speaking countries.
 
-If I stay in Ukraine for long-term residence, I should leave away from the local Chinese social circle, they are dangerous in every aspect, so I had better immigrate to other powerful countries that can protect me.
+If I stay in Ukraine for long-term residence, I should leave away from the local Chinese social circle, I had better immigrate to other powerful countries that can protect me.
 
 that's why I should study English well
 
@@ -50,7 +50,7 @@ by Tandem language community. I talk to the language exchange partners as follow
 
 ## 2021.8.15 talk with James
 
-How a person or a community responds and acts on a philosophical/moral/social principle does not necessarily reflect the true meaning of that principle. Each one of us would have to assess the principle ourselves and decide whether it fits with our own beliefs and morality. Certain elements of communism are unrealistically idealistic and it just fails when combined with the greed and ambitions of human beings. A similar thing can now also be said for the political system in the West. I believe it's not just the political system but the people who happen to occupy positions of power in a political system that really influences the outcome. No matter how multilayered or flexible a system is, it can be manipulated and perverted to serve the interest of a few. Democracy may have some additional tools to prevent that from happening but as you can see from Trump, it can also fail. The fundamental problem is a lack of respect for other human beings, no matter how different they are from us. If one loses this moral bearing, it doesn't really matter what political system we are in, we will be doomed.
+James: How a person or a community responds and acts on a philosophical/moral/social principle does not necessarily reflect the true meaning of that principle. Each one of us would have to assess the principle ourselves and decide whether it fits with our own beliefs and morality. Certain elements of communism are unrealistically idealistic and it just fails when combined with the greed and ambitions of human beings. A similar thing can now also be said for the political system in the West. I believe it's not just the political system but the people who happen to occupy positions of power in a political system that really influences the outcome. No matter how multilayered or flexible a system is, it can be manipulated and perverted to serve the interest of a few. Democracy may have some additional tools to prevent that from happening but as you can see from Trump, it can also fail. The fundamental problem is a lack of respect for other human beings, no matter how different they are from us. If one loses this moral bearing, it doesn't really matter what political system we are in, we will be doomed.
 
 Atom: your words must be above the band scores 8 in IELTS, I read carefully and make the record. in my experience, communism puts forward extremely high ideal goals and moral standards, but in reality is very hypocritical, unable to do even the basic things, but instead offers sharp criticism of others, in short, it's all the fault of others, typical psychopathy of giant babies, so most of the people in that community have this disease.
 
@@ -88,39 +88,61 @@ Frankly speaking, only Japanese animation movies could make me cry, I never crie
 
 **Japan’s progress:**
 
-Japan is more open, they study from the whole world. but China is too Conservative and old only old, not new.
-
-Japan is modern and advanced in science & technology, the most powerful and developed country in Asia;
-
-Japan could be one of the top 10 countries in the world;
-
-Japan is the only country list on G7 [https://en.wikipedia.org/wiki/Group\_of\_Seven](https://en.wikipedia.org/wiki/Group_of_Seven);
-
-Japan is the first Asian country listed in OECD;
+* Japan is more open, they study from the whole world. but China is too Conservative and old only old, not new;
+* Japan is modern and advanced in science & technology, the most powerful and developed country in Asia;
+* Japan could be one of the top 10 countries in the world;
+* Japan is the only country list on G7 [https://en.wikipedia.org/wiki/Group\_of\_Seven](https://en.wikipedia.org/wiki/Group_of_Seven);
+* Japan is the first Asian country listed in OECD;
 
 Japan has little motherland on their island, so Japanese people immigrate to the whole world, Japanese passport is free visa to over 130 countries, really high-value passport. So it's not easy for too many people to immigrate to Japan, but you are welcome to travel and study over there.
 
-## 2021.6.30 Why did I leave China and come here?
+## 2021.6.30 Why should I leave China and come here?
 
 There was a language partner in Tandem ask me the above question, I answered as follows:
 
-A Chinese businessman asked me to work for him in Ukraine, so I come here.
 
-today I got my certificate of a **permit for employment of foreigners,** then I can get a **Residence permit for long-term staying in Ukraine,** so today is very important for me.
 
-but I found some bugs in the official documents, the businessman tells lies, I found Chinese businessmen are always telling lies, what's more, he used my private information and credentials to register in his company without my permission, he didn’t tell me in advance, and he might think that I can not recognize the Ukrainian characters.
+### Corruption Index Rank
 
-So, I should consider what’s my solution for the next steps, how to leave this company? If I will lose my certificate of work and residence permit? what troubles will be in front of me?
+[https://en.wikipedia.org/wiki/Corruption\_Perceptions\_Index](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index)[https://www.transparency.org/en/cpi/2020/index/nzl\#](https://www.transparency.org/en/cpi/2020/index/nzl#)
 
-Ukraine is a good country, I want to stay here for the long term, but the Chinese businessmen are always really terrible.
+as you can see on the above links' map, the corrupt countries rank as below roughly: 
 
-the Chinese businessmen are always lier, it’s a very common situation for long long time. that’s because China is very conservative and too old, we close the door, and don’t communicate with the western world. we are too far away from civilization. so not only businessmen but also people in every aspect of every industry, they don’t follow the rules and destroy the contracts easily.
+1. most undeveloped countries: parts of Africa /middle Asia/ North Korea 99% +
+2. developing country: China  80% +; Russia/ Ukraine  60% +
+3. most developed countries: OECD\( North&West Europe, North America\) Countries 10% -
 
-So I should leave China, go abroad, I feel good right now, it’s better than living in China.
+I'm pretty sure, the corrupt level of China is higher than most undeveloped countries, the data rank is wrong, the above website may take bribes from China's government, so corruption is everywhere.
 
-A brief introduction of myself
+I have the experience since I was very young, I have many friends, relatives and family members who work for goverment and private company, I deeply understand that "No curruption, No bussiness in China", it means if you are not corrupted, you don't bribe your leaders, you can not do anything \(including do business, go to school, go to see the doctor, etc.\) in China, even you want to do a tiny job.
 
-please call me Atom, I will send you my Chinese name in English spelling and Chinese characters. I’m majoring in IT and E-commerce, I mainly work in the field of agriculture and food sectors, I'm experienced as a product manager and project operator in Alibaba and other top 3-5 Chinese companies of the industry. For more info please take my LinkedIn as a reference.
+
+
+### Hong kong's Dynasty Gone
+
+the legal, educational, economical system is more close to China's mainland since 1997, it will be worse, so we must leave and go far away to other countries.
+
+ 
+
+### A brief introduction of myself
+
+please call me Atom, I can send you my Chinese name in both English spelling and Chinese characters. I’m majoring in IT and E-commerce, I mainly work in the field of agriculture and food sectors, I'm experienced as a product manager and project operator in Alibaba and other top 3-5 Chinese companies of the industry. For more info please take my LinkedIn as a reference.
+
+
+
+### How is the  business and next plan
+
+A friend invites me to cooperate with him in Ukraine, so I come here, and run a new startup business.
+
+Today I got my certificate of a **permit for employment of foreigners,** then I can get a **Residence permit for long-term staying in Ukraine,** so today is very important for me.
+
+Although I can not recognize the Ukrainian characters. but I still found some bugs in the official documents,  my private information and credentials were used to register in the company without my permission in advance, so the negotiation is not enough sometimes between business partners. 
+
+people can not have good communication, what's more, Chinese businessmen are always familiar with telling lies. it’s been a very common situation for a long long time, China is very conservative and too old, we close the door, and don’t communicate with the western world. we are too far away from civilization. so not only businessmen but also people in every aspect of every industry, they don’t follow the rules and destroy the contracts easily.
+
+So I should leave China, go abroad, I feel good right now, it’s better than living in China. I want to stay here for the long term, but the Chinese business partners are always really terrible. So, I should consider what’s my solution for the next steps, how to solve this kind of problem? If I will lose my certificate of work and residence permit? what troubles will be in front of me?
+
+Ukraine is a good country, but it's not good enough, it's still a developing country, and corruption is in governence and everywhere, the society is not fair. So I plan to stay here only 2-3 years, during the following years, we will expand the business to north America and West Europe. 
 
 Thank you for your response and for sharing fresh local news.
 
