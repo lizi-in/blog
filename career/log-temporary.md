@@ -22,6 +22,18 @@ let's move to OECD countries, I explained in my English blog, see the above link
 
 
 
+## dating bots
+
+dating online is becoming more and more popular today, many people want to make friends by dating apps. 
+
+in some situation, the dating app company will hire some real person to chat, they are might be both women and men, you never know who is sitting behind the screen, lots of single men are excited and would like to pay for a virtual girl of digital display.
+
+but some bots are , there are many ways to test if your chat partners are bots or not.
+
+the famous Turing test, AI, 
+
+the real situation is there are many bots created by the internet company, bots can help them earn more money.
+
 
 
 
