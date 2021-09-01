@@ -20,11 +20,7 @@ You will not like it in a humid and warm place, many people will have a musty sm
 
 let's move to OECD countries, I explained in my English blog, see the above link
 
-..the grass is always greener on the other side" - is about you
 
-similar to the proverb, that other people's things are always good, other people's wives are always beautiful, and people are always feeling unsatisfied with themselves.
-
-some people are satisfied with a specific environment, but some people get sick and even death. I'm a refugee that escaped from China in fact, because I love talking about the environment and public affairs, I worked as a volunteer for NGOs long time, its' very dangerous with all these political issues over there, some of my friends were arrested, I'm lucky and survived till now.
 
 
 
@@ -96,7 +92,7 @@ Frankly speaking, only Japanese animation movies could make me cry, I never crie
 
 Japan has little motherland on their island, so Japanese people immigrate to the whole world, Japanese passport is free visa to over 130 countries, really high-value passport. So it's not easy for too many people to immigrate to Japan, but you are welcome to travel and study over there.
 
-## 2021.6.30 Why should I leave China and come here?
+## 2021.6.30 Why should I leave China?
 
 There was a language partner in Tandem ask me the above question, I answered as follows:
 
@@ -114,7 +110,7 @@ as you can see on the above links' map, the corrupt countries rank as below roug
 
 I'm pretty sure, the corrupt level of China is higher than most undeveloped countries, the data rank is wrong, the above website may take bribes from China's government, so corruption is everywhere.
 
-I have the experience since I was very young, I have many friends, relatives and family members who work for goverment and private company, I deeply understand that "No curruption, No bussiness in China", it means if you are not corrupted, you don't bribe your leaders, you can not do anything \(including do business, go to school, go to see the doctor, etc.\) in China, even you want to do a tiny job.
+I have the experience since I was very young, I have many friends, relatives and family members who work for goverment and private company, I deeply understand that "No curruption, No bussiness in China", it means if you are not corrupted, you don't bribe your leaders, you can not do anything \(including do business, go to school, go to see the doctor, etc.\) in China, even you want to do a tiny business.
 
 
 
@@ -122,7 +118,27 @@ I have the experience since I was very young, I have many friends, relatives and
 
 the legal, educational, economical system is more close to China's mainland since 1997, it will be worse, so we must leave and go far away to other countries.
 
- 
+
+
+### China's propaganda
+
+Because I usually talk about my bad experiences in China, so relatively I have more praise words to the western world.
+
+Then a local girl described me as the one who thinks that " ..the grass is always greener on the other side, Overly idealistic view of the Western world".
+
+This is similar to the proverb that, other people's things are always good, other people's wives are always beautiful, and people are always feeling unsatisfied with themselves.
+
+Some people are satisfied with a specific environment, but some people get sick and even death. I'm a refugee that escaped from China in fact, because I love talking about the environment and public affairs, I worked as a volunteer for NGOs long time, its' very dangerous with all these political issues over there, some of my friends were arrested, I'm lucky and survived till now.
+
+This girl doesn't care about my life or respect my experience.
+
+at last, she said, " I love China". I asked her why? she replied "China is beautiful, strong, and powerful" 
+
+these are typical of China's propaganda words. but she has never been to China, she doesn't understand Chinese language, and doesn't have friends, and even doesn't understand the real situation over there. but she says" I love \*\*\*"
+
+China's propaganda is really succesful.
+
+
 
 ### A brief introduction of myself
 
@@ -130,21 +146,21 @@ please call me Atom, I can send you my Chinese name in both English spelling and
 
 
 
-### How is the  business and next plan
+### How is my business and next plan
 
-A friend invites me to cooperate with him in Ukraine, so I come here, and run a new startup business.
+A friend invites me to work with him in Ukraine, so I come here, and run a new startup business.
 
 Today I got my certificate of a **permit for employment of foreigners,** then I can get a **Residence permit for long-term staying in Ukraine,** so today is very important for me.
 
-Although I can not recognize the Ukrainian characters. but I still found some bugs in the official documents,  my private information and credentials were used to register in the company without my permission in advance, so the negotiation is not enough sometimes between business partners. 
+Although I can not recognize the Ukrainian characters, but I still found some bugs in the official documents,  my private information and credentials were used to register in the company without my permission in advance, so the negotiation is not enough sometimes between business partners. 
 
-people can not have good communication, what's more, Chinese businessmen are always familiar with telling lies. it’s been a very common situation for a long long time, China is very conservative and too old, we close the door, and don’t communicate with the western world. we are too far away from civilization. so not only businessmen but also people in every aspect of every industry, they don’t follow the rules and destroy the contracts easily.
+people around me can not have good communication usually in China, what's more, Chinese businessmen are always telling lies. it’s been a very common situation for a long long time, China is very conservative and too old, they close the door, and don’t communicate with the western world. we are too far away from civilization. so not only businessmen but also people in every aspect of every industry, they don’t follow the rules and destroy the contracts easily.
 
 So I should leave China, go abroad, I feel good right now, it’s better than living in China. I want to stay here for the long term, but the Chinese business partners are always really terrible. So, I should consider what’s my solution for the next steps, how to solve this kind of problem? If I will lose my certificate of work and residence permit? what troubles will be in front of me?
 
-Ukraine is a good country, but it's not good enough, it's still a developing country, and corruption is in governence and everywhere, the society is not fair. So I plan to stay here only 2-3 years, during the following years, we will expand the business to north America and West Europe. 
+Ukraine is a good country, but it's not good enough, it's still a developing country, and corruption is in governence and everywhere, the society is not fair. So I plan to stay here no more than 2-3 years, during the following years, we will expand the business to north America and West Europe. 
 
-Thank you for your response and for sharing fresh local news.
+Thank you friends who response and for sharing fresh local news.
 
 ## 2021.6.14 **Why did I use a language exchange app?**
 
