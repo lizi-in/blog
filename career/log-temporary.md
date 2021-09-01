@@ -8,9 +8,9 @@ If I stay in Ukraine for long-term residence, I should leave away from the local
 
 that's why I should study English well
 
-Not yet, if I talk about political, environmental and other publical issues, I will be arrested. The police warned me that they can find me even in other countries. 
+Not yet, if I talk about political, environmental and other public issues, I will be arrested. The police warned me that they can find me even in other countries. 
 
-How they can pay attention for more than 1 billion people, Even 5 millions ch citizens abroad. 
+How they can pay attention to more than 1 billion people, Even 5 million ch citizens abroad. 
 
 internet media control and monitor.
 
@@ -122,21 +122,23 @@ the legal, educational, economical system is more close to China's mainland sinc
 
 ### China's propaganda
 
-Because I usually talk about my bad experiences in China, so relatively I have more praise words to the western world.
+Because I usually talk about my bad experiences in China, so relatively I have more praise words to the most developed countries in western world.
 
-Then a local girl described me as the one who thinks that " ..the grass is always greener on the other side, Overly idealistic view of the Western world".
+Then, a local girl described me as the one who thinks Overly idealistic view of the Western world " ..the grass is always greener on the other side".
 
-This is similar to the proverb that, other people's things are always good, other people's wives are always beautiful, and people are always feeling unsatisfied with themselves.
+This is similar to the proverb that "other people's things are always good, other people's wives are always beautiful, and people are always feeling unsatisfied with themselves".
 
 Some people are satisfied with a specific environment, but some people get sick and even death. I'm a refugee that escaped from China in fact, because I love talking about the environment and public affairs, I worked as a volunteer for NGOs long time, its' very dangerous with all these political issues over there, some of my friends were arrested, I'm lucky and survived till now.
 
-This girl doesn't care about my life or respect my experience.
+This girl doesn't care about or respect my life, I tell something true and objective by my experience.
 
 at last, she said, " I love China". I asked her why? she replied "China is beautiful, strong, and powerful" 
 
-these are typical of China's propaganda words. but she has never been to China, she doesn't understand Chinese language, and doesn't have friends, and even doesn't understand the real situation over there. but she says" I love \*\*\*"
+these are typical of China's propaganda words. She has never been to China, she has no Chinese friends, she doesn't understand the Chinese language and the real situation over there. but she says" I love \*\*\*". 
 
-China's propaganda is really succesful.
+Some people live in the western world, they have press free, saying free, but they don't have independent thinking and world view. they still believe Lies of Deception. what a pity!
+
+China's propaganda is really successful. 
 
 
 
