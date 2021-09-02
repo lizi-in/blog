@@ -1,71 +1,38 @@
+---
+description: Updating ……
+---
+
 # log- temporary
 
-**I plan to immigrate to other countries**
-
-Yes, I read lots of immigration policies of the whole world, I only consider the OECD- developed country lists: US, UK, Canada, New Zealand, Japan, Australia, Singapore, West & North Europe, they are probably English speaking countries.
-
-If I stay in Ukraine for long-term residence, I should leave away from the local Chinese social circle, I had better immigrate to other powerful countries that can protect me.
-
-that's why I should study English well
-
-Not yet, if I talk about political, environmental and other public issues, I will be arrested. The police warned me that they can find me even in other countries. 
-
-How they can pay attention to more than 1 billion people, Even 5 million ch citizens abroad. 
-
-internet media control and monitor.
-
-
-
-You will not like it in a humid and warm place, many people will have a musty smell and the whole person feels lethargic and not in good spirits. That's why the developed countries around the world are in the cold regions far from the earth's equator.
-
-let's move to OECD countries, I explained in my English blog, see the above link
+\*\*\*\*
 
 
 
 ## Hire&Bot Dating
 
-dating online is becoming more and more popular today, many people want to make friends by dating apps. there are mainly two kinds of cheating tricks both in China and globally.
+Dating online is becoming more and more popular today, many people want to make friends by dating apps. there are mainly two kinds of cheating tricks both in China and globally.
 
-Hire Dating: the dating app company usually hires some real person to chat, they are might be both women and men, you never know who is sitting behind the screen, lots of single men are excited and would like to pay for a virtual girl of digital display.
+**Hire Dating:** the dating app company usually hires some real person to chat, they are might be both women and men, you never know who is sitting behind the screen, lots of single men are excited and would like to pay for a virtual girl of digital display.
 
-Bot Dating: Less real employees, more profits, bots can help earn more money.  so, there are many bots created by internet companies.
+**Bot Dating:** Less real employees, more profits, bots can help earn more money.  so, there are many bots created by internet companies.
 
-science&technology are developing quickly, AI's power is out of our imagination. you can not easily to differentiate your chat partners are real persons or bots.
+Science&technology are developing quickly, AI's power is out of our imagination. you can not easily differentiate your chat partners are real persons or bots.
 
-I used to test dating apps, and show my profile to the apps' company my personal description as:   
+I used to test dating apps, and show my **personal descriptions** as:   
 This is a social engineering test, to research humans' behavior, dating bots tricks, user experience bugs. From: Asian boy, 166cm, 60kg, Athletic, Attractive, honest, silly.
 
-there are many ways to test if your chat partners are bots or not.
+Since at least1950's, talented scientists had already known how to imitate human being's mentality and words, even many intelligent people are cheated by AI machines. Do you know the famous UK scientist Turing?
 
-the famous Turing test, AI, 
+Film: Imitation Game [https://www.imdb.com/title/tt2084970/](https://www.imdb.com/title/tt2084970/)  
+Turing test [https://en.wikipedia.org/wiki/Turing\_test](https://en.wikipedia.org/wiki/Turing_test)
 
+> The Turing test requires that the machine be able to execute all human behaviours, regardless of whether they are intelligent. It even tests for behaviours that may not be considered intelligent at all, such as the susceptibility to insults,[\[64\]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTESayginCicekli2002227%E2%80%93258-64) the temptation to [lie](https://en.wikipedia.org/wiki/Lie) or, simply, a high frequency of [typing mistakes](https://en.wikipedia.org/wiki/Typographical_error). If a machine cannot imitate these unintelligent behaviours in detail it fails the test.
 
+> To successfully appear human, there is no need for the machine to have any intelligence whatsoever and only a superficial resemblance to human behaviour is required.
 
-### Unhappy girl
-
-
-
-
-
+After 70 year's development, AI is more powerful today, most part of people can not differentiate chat partners are bots or not. 
 
 
-
-
-**Tips: how to write correctly?**
-
-when I write a long blog in English for the first time, there are too many mistakes for grammar and vocabulary spelling, recommend a good tool for draft correction.
-
-[https://www.grammarly.com/](https://www.grammarly.com/)
-
-
-
-Updating ……
-
-
-
-I don't want to waste our precious conversation fragments in daily life, make them useful, record them in the blog is easy for us. it's a part of our experience. Writing down carefully and then speaking with partners correctly.
-
-by Tandem language community. I talk to the language exchange partners as follows:
 
 ## 2021.8.15 talk with James
 
@@ -195,31 +162,25 @@ I don't know how to choose, Russian or Ukrainian? Those two kinds of language ar
 
 Anyway, I started the self-taught Ukrainian online for phonetic symbols and alphabets, 2 weeks later, I can read and spell simple words. I still can not talk freely with local people. I need lots of time to practice, then I decide to go to the language exchange app for help, a colleague suggests Tandem.
 
-This is the first time I use tandem, which is similar to a social network app, many people just want to seek out friends. I am sure it is not a professional tool for language learners. I recommend two apps for you:
-
-\[[https://www.lingoda.com/,\]\(https://www.lingoda.com/en/p/home-new/\)](https://www.lingoda.com/,%5D%28https://www.lingoda.com/en/p/home-new/%29)
-
+This is the first time I use tandem, which is similar to a social network app, many people just want to seek out friends. I am sure it is not a professional tool for language learners. I recommend two apps:  
+[https://www.lingoda.com/](https://www.lingoda.com/,%5D%28https://www.lingoda.com/en/p/home-new/%29)  
 [https://www.rosettastone.eu/](https://www.rosettastone.eu/)
 
 **My profile is in tandem as following:**
 
-My passion and hobbies:
+My passion and hobbies: IT, Computer science, remote work, geek
 
-IT, Computer science, remote work, geek
+People I would like to talk with: Independent thinking, smart, hard-working, open-minded, like to share.
 
-People I would like to talk with:
+My learning goals: I will get 7 scores of IELTS, which should be close to fluent and native, it's a serious exam, but not social networking for dating girls here. \( I change my mind to English study 1 month later, so the profile is changed also\)
 
-Independent thinking, smart, hard-working, open-minded, like to share.
+My topics: Environment, anthropology, cosmology, agri-food, politics, sports, health, etc.  
 
-My learning goals:
+\*\*\*\*
 
-I will get 7 scores of IELTS, which should be close to fluent and native, it's a serious exam, but not social networking for dating girls here. \( I change my mind to English study 1 month later, so the profile is changed also\)
+**Tips: how to write correctly?**
 
-My topics:
+I don't want to waste precious conversation fragments in daily life, make them useful, record them in the blog is easy for us. it's a part of our experience. Writing down carefully and then speaking with partners correctly.
 
-Environment, anthropology, cosmology, agri-food, politics, sports, health, etc.  
-
-
-
-
+when I write a long blog in English for the first time, there are too many mistakes for grammar and vocabulary spelling, recommend a good tool for draft correction. ****[https://www.grammarly.com/](https://www.grammarly.com/)
 
