@@ -4,5 +4,5 @@
 
 ## career
 
-* [log- draft](career/log-temporary.md)
+* [log- draft](career/log-draft.md)
 
