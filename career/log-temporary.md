@@ -8,7 +8,7 @@ description: Updating ……
 
 
 
-## Hire&Bot Dating
+## 2021.8.30 Hire&Bot Dating
 
 Dating online is becoming more and more popular today, many people want to make friends by dating apps. there are mainly two kinds of cheating tricks both in China and globally.
 
@@ -34,11 +34,15 @@ After 70 year's development, AI is more powerful today, most part of people can 
 
 
 
-## 2021.8.15 talk with James
+## 2021.8.15 Talk with James
 
 James: How a person or a community responds and acts on a philosophical/moral/social principle does not necessarily reflect the true meaning of that principle. Each one of us would have to assess the principle ourselves and decide whether it fits with our own beliefs and morality. Certain elements of communism are unrealistically idealistic and it just fails when combined with the greed and ambitions of human beings. A similar thing can now also be said for the political system in the West. I believe it's not just the political system but the people who happen to occupy positions of power in a political system that really influences the outcome. No matter how multilayered or flexible a system is, it can be manipulated and perverted to serve the interest of a few. Democracy may have some additional tools to prevent that from happening but as you can see from Trump, it can also fail. The fundamental problem is a lack of respect for other human beings, no matter how different they are from us. If one loses this moral bearing, it doesn't really matter what political system we are in, we will be doomed.
 
-Atom: your words must be above the band scores 8 in IELTS, I read carefully and make the record. in my experience, communism puts forward extremely high ideal goals and moral standards, but in reality is very hypocritical, unable to do even the basic things, but instead offers sharp criticism of others, in short, it's all the fault of others, typical psychopathy of giant babies, so most of the people in that community have this disease.
+Atom: your words must be above the band scores 8 in IELTS, I read carefully and make the record. In my experience, communism puts forward extremely high ideal goals and moral standards, but in reality is very hypocritical, unable to do even the basic things, but instead offers sharp criticism of others, in short, it's all the fault of others, typical psychopathy of giant babies, so most of the people in that community have these mental or psychological disease.
+
+## **2021.8.7 Why English is so important?** 
+
+## 2021.8.1 W**hy Immigration to OECD?**
 
 ## 2021.7.15 **Why did I quit the language exchange app?**
 
