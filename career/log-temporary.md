@@ -22,17 +22,28 @@ let's move to OECD countries, I explained in my English blog, see the above link
 
 
 
-## dating bots
+## Hire&Bot Dating
 
-dating online is becoming more and more popular today, many people want to make friends by dating apps. 
+dating online is becoming more and more popular today, many people want to make friends by dating apps. there are mainly two kinds of cheating tricks both in China and globally.
 
-in some situation, the dating app company will hire some real person to chat, they are might be both women and men, you never know who is sitting behind the screen, lots of single men are excited and would like to pay for a virtual girl of digital display.
+Hire Dating: the dating app company usually hires some real person to chat, they are might be both women and men, you never know who is sitting behind the screen, lots of single men are excited and would like to pay for a virtual girl of digital display.
 
-but some bots are , there are many ways to test if your chat partners are bots or not.
+Bot Dating: Less real employees, more profits, bots can help earn more money.  so, there are many bots created by internet companies.
+
+science&technology are developing quickly, AI's power is out of our imagination. you can not easily to differentiate your chat partners are real persons or bots.
+
+I used to test dating apps, and show my profile to the apps' company my personal description as:   
+This is a social engineering test, to research humans' behavior, dating bots tricks, user experience bugs. From: Asian boy, 166cm, 60kg, Athletic, Attractive, honest, silly.
+
+there are many ways to test if your chat partners are bots or not.
 
 the famous Turing test, AI, 
 
-the real situation is there are many bots created by the internet company, bots can help them earn more money.
+
+
+### Unhappy girl
+
+
 
 
 
@@ -64,7 +75,7 @@ Atom: your words must be above the band scores 8 in IELTS, I read carefully and 
 
 ## 2021.7.15 **Why did I quit the language exchange app?**
 
-There are at least 10 people saying hello to me when I log in tandem community first time. but most part of them just say hello and appear once a lifetime, they can not keep practice. Only a Russian student Sofya keep speak with me, the only one could speak for over 2 weeks.
+There are at least 10 people saying hello to me when I log in Tandem community first time. but most part of them just say hello and appear once a lifetime, they can not keep practice. Only a Russian student Sofya keep speak with me, the only one who could speak for over 2 weeks.
 
 no more than 1 month later after I install this app, I want to quit Tandem, I should shift to another instant messenger with Sofya, otherwise, I can not talk anymore, I told my opinion many times. about awaiting for 1-month later, finally, she agreed. she seems doesn't use mobile phone and app usually.
 
@@ -128,7 +139,7 @@ I have the experience since I was very young, I have many friends, relatives and
 
 ### Hong kong's Dynasty Gone
 
-the legal, educational, economical system is more close to China's mainland since 1997, it will be worse, so we must leave and go far away to other countries.
+the legal, educational, economical system is more close to China's mainland since 1997, the year Hongkong come back to China, it will be worse and worse, as Hongkong people, must leave and go far away to other countries.
 
 
 
@@ -166,15 +177,13 @@ A friend invites me to work with him in Ukraine, so I come here, and run a new s
 
 Today I got my certificate of a **permit for employment of foreigners,** then I can get a **Residence permit for long-term staying in Ukraine,** so today is very important for me.
 
-Although I can not recognize the Ukrainian characters, but I still found some bugs in the official documents,  my private information and credentials were used to register in the company without my permission in advance, so the negotiation is not enough sometimes between business partners. 
+Although I can not recognize the Ukrainian characters, I still found some bugs in the official documents,  my private information and credentials were used to register in the company without my permission in advance, so the negotiation is not enough sometimes between business partners. 
 
 people around me can not have good communication usually in China, what's more, Chinese businessmen are always telling lies. it’s been a very common situation for a long long time, China is very conservative and too old, they close the door, and don’t communicate with the western world. we are too far away from civilization. so not only businessmen but also people in every aspect of every industry, they don’t follow the rules and destroy the contracts easily.
 
 So I should leave China, go abroad, I feel good right now, it’s better than living in China. I want to stay here for the long term, but the Chinese business partners are always really terrible. So, I should consider what’s my solution for the next steps, how to solve this kind of problem? If I will lose my certificate of work and residence permit? what troubles will be in front of me?
 
-Ukraine is a good country, but it's not good enough, it's still a developing country, and corruption is in governence and everywhere, the society is not fair. So I plan to stay here no more than 2-3 years, during the following years, we will expand the business to north America and West Europe. 
-
-Thank you friends who response and for sharing fresh local news.
+Ukraine is a good country, but it's not good enough, it's still a developing country, and corruption is in governance and everywhere, the society is not fair. So I plan to stay here no more than 2-3 years, during the following years, we will expand the business to North America and West Europe. 
 
 ## 2021.6.14 **Why did I use a language exchange app?**
 
