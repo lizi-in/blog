@@ -4,7 +4,7 @@ description: 2021.8.30
 
 # Dating is a good business
 
-James is a serious man, my respected brother or teacher, one day he said to me that "Ukraine ladies are pretty, you should go to date", I think he is not joking, then, I have the interest to research dating app's business.
+James is a serious man, respected Intellectuals and business elites, a good elder brother and teacher, one day he said to me that "Ukraine ladies are pretty, you should go to date", I think he is not joking, then, I have the interest to research dating app's business.
 
 ## Hire&Bot Dating
 
