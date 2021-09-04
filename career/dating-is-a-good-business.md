@@ -127,9 +127,9 @@ This part is hard to express in English, I speak in mother language.
   
 For the Chinese, everything is political, and political manoeuvring is needed for dating and family, so here I have to mention this stinging word.  
   
-I'm not from the literary cultrue circle, I don't know the details. Is there any modern literary work in China that is worthy of mention? In my humble understanding, the Chinese cultural scene has been eating old money \(digging up the graves of the ancestors and telling stories from the past 5,000 years\), making use of traditional classics, and is running out of steam.  
+I'm not from the literary culture circle, I don't know the details. Is there any modern literary work in China that is worthy of mention? In my humble understanding, the Chinese cultural scene has been eating old money \(digging up the graves of the ancestors and telling stories from the past 5,000 years\), making use of traditional classics, and is running out of steam.  
   
-The Chinese government's big outreach PROPAGANDA and constant cultural infiltration with political aims abroad has also long since been discovered and exposed by the Western world, so the officially run Confucius Institute is finding it difficult to continue its work.  
+The Chinese government's big outreach PROPAGANDA and constant cultural infiltration with political aims abroad has also long since been discovered and exposed by the Western world, so the officially-run Confucius Institute is hard to continue its work.  
   
 Xiaolin cartoons are a rare exception, requiring a combination of intellectual talent and hard work, and his work can won the hearts of both China and the West, but it has not yet been disseminated to the West and has only been exhibited once in nearby Japan, perhaps because Japanese society is very similar to that of China, where people face many similar pressures.  
   
