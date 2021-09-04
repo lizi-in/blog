@@ -11,6 +11,6 @@ Doing IT and operation works, be committed to improving the QUALITY\(Safety, Eff
 * Value: Science & Technology, Faith, Truth, Future-oriented.
 
 Welcome message us.  
-Atom. x  
+Atom  
 Atom.x@outlook.com
 
