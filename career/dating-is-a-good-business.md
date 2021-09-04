@@ -34,9 +34,9 @@ After 70 year's development, AI is more powerful today, it's very cheap to deplo
 
 ## Unhappy girl
 
-The first day I login apps, I found a girl has only one picture in profile with an unhappy face, she is different, Most parts of girls' pictures are probably pretty and bright in apps. 
+Most parts of girls' pictures are probably pretty and bright in apps. 
 
-So I pay attention to her, click in and chat with her.  
+The first day I login apps, I found a girl has only one picture in profile with an unhappy face, she is different. So I pay attention to her, click in and chat with her.  
   
 For several times chats, I gained trust, then I got her blog, Instagram, other social account and even CV, I'm always warm-hearted, promise to help improving her career.  
   
