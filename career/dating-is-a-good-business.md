@@ -77,8 +77,9 @@ I want to share a famous Chinese Doctor Lin’s works with unhappy people. they 
 Bright, warm, positive, inspiring, intelligent, humorous and funny 明亮、温暖、积极、励志、智慧、幽默、风趣
 {% endhint %}
 
-His words are more important than pictures, I think people are suffering a lot from the complex of society, family, personal development anywhere, especially in undeveloped countries, Literary and artistic works can heal people's hearts and activate passion or spirit.  
+His words are more important than pictures, I think people are suffering a lot from the complex of society, family, personal development anywhere, especially in undeveloped countries, Literary and artistic works can heal people's hearts and activate passion or spirit.
 
+you can search out lots of webpage about Xiaolin Cartoon in Chinese keywords. here I use Doctor Lin's work for a better understanding with western people.
 
 ### **Doctor Lin**
 
@@ -93,12 +94,12 @@ Xiaolin’s old-style official website [http://www.inkcn.com/v10/index.asp](http
 
 [https://www.amazon.com/Books-Lin-Dihuan/s?rh=n%3A283155%2Cp\_27%3ALin+Dihuan](https://www.amazon.com/Books-Lin-Dihuan/s?rh=n%3A283155%2Cp_27%3ALin+Dihuan)  
   
-Reading Doctor’Lin’s works had better to requires some background of Chinese culture, at least proficiency in Chinese language, otherwise you will not understand its true meaning. If you have similar Western art works, please recommend them to me.  
+Reading Doctor’Lin’s works had better require some background of Chinese culture, at least proficiency in Chinese language, otherwise, you will not understand its true meaning. If you have similar Western artworks, please recommend them to me.  
   
-Doctor Lin has two article of mental health in WHO website.  
+Doctor Lin has two articles on mental health in the WHO website.  
 [https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/?lang=en&q=au:%22Lin,%20Dihuan%22](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/?lang=en&q=au:%22Lin,%20Dihuan%22)  
   
-Doctor Lin’s Eevnts  
+Doctor Lin’s Eevents  
 Lin Dihuan: Waiting For A Flower To Unfold  
 [https://www.facebook.com/events/d41d8cd9/lin-dihuan-waiting-for-a-flower-to-unfold/2260979070619616/](https://www.facebook.com/events/d41d8cd9/lin-dihuan-waiting-for-a-flower-to-unfold/2260979070619616/)  
 [http://chineselectures.org/022419.html](http://chineselectures.org/022419.html)  
@@ -109,7 +110,7 @@ Lin Dihuan: Waiting For A Flower To Unfold
 
 ### Anything serves politics
 
-This part is hard to express in English, I speak in mother language.  
+This part is hard to express in English, I speak in my mother language.  
   
 對於中國人而言，一切皆為政治服務，約會談對象也需要政治手腕，所以這里不得不提到這個刺眼的詞：  
   
@@ -127,17 +128,19 @@ This part is hard to express in English, I speak in mother language.
   
 For the Chinese, everything is political, and political manoeuvring is needed for dating and family, so here I have to mention this stinging word.  
   
-I'm not from the literary culture circle, I don't know the details. Is there any modern literary work in China that is worthy of mention? In my humble understanding, the Chinese cultural scene has been eating old money \(digging up the graves of the ancestors and telling stories from the past 5,000 years\), making use of traditional classics, and is running out of steam.  
+I'm not from the literary culture circle, I don't know the details. Is there any modern literary work in China that is worthy of mention? In my humble understanding, the Chinese cultural scene has been dependent on traditional \(digging up the graves of the ancestors and telling stories from the past 5,000 years\), making use of traditional classics, and is running out of steam.  
   
-The Chinese government's big outreach PROPAGANDA and constant cultural infiltration with political aims abroad has also long since been discovered and exposed by the Western world, so the officially-run Confucius Institute is hard to continue its work.  
+The Chinese government's big outreach PROPAGANDA and constant cultural infiltration with political aims abroad have also long since been discovered and exposed by the Western world, so the officially-run Confucius Institute is hard to continue its job.  
   
-Xiaolin cartoons are a rare exception, requiring a combination of intellectual talent and hard work, and his work can won the hearts of both China and the West, but it has not yet been disseminated to the West and has only been exhibited once in nearby Japan, perhaps because Japanese society is very similar to that of China, where people face many similar pressures.  
+Doctor Lin's works are a rare exception, requiring a combination of intellectual talent and hard work, and his work can won the hearts of both east and West, but it has not yet been disseminated to the West and has only been exhibited once in nearby Japan, perhaps because Japanese society is very similar to that of China, where people face many similar pressures.  
   
-China no longer has any significant soft power literature, so I am very much in favour of promoting Kobayashi's manga to the West, especially in developing countries, and any country where there is a lot of social pressure.  
+China no longer has any significant soft power literature, so I support them in promoting Doctor Lin's works to the West, especially in developing countries, and any country where there is a lot of social pressure.  
   
-The great Chinese foreign propaganda, which looks like a win and has managed to wash the brains of many Westerners, has failed miserably, and it has blown a bubble that will put China in a suffocating desperate situation.  
+China's propaganda win the media battle, has managed to wash the brains of many Westerners, Indeed has failed miserably, and it has blown a bubble that will put China in a suffocating desperate situation.  
   
-The extremely few presentations of Kobayashi's comics in the English media are also disseminated through government-run media like CGTN, so please don't mind them as a simple reference. It's a shame that good work is kept in a closed environment and that there are no better or bigger channels to disseminate it to the public yet.  
+The extremely few presentations of DoctorLin's works in the English media are also disseminated through government-run media like CGTN, it's doesn't matter as a simple reference. It's a shame that good work is kept in a closed environment and that there are no better or bigger channels to disseminate it to the western world public yet.
+
+  
   
   
 
