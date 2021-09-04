@@ -62,9 +62,9 @@ Frankly speaking, only Japanese animation movies could make me cry, I never crie
 
 Japan has little motherland on their island, so Japanese people immigrate to the whole world, Japanese passport is free visa to over 130 countries, really high-value passport. So it's not easy for too many people to immigrate to Japan, but you are welcome to travel and study over there.
 
-## 2021.6.30 Why should I leave China?
+## 2021.6.30 Why should leave China?
 
-There was a language partner in Tandem ask me the above question, I answered as follows:
+Many friends ask me the above question, there are many reasons, I answered as follows:
 
 
 
@@ -92,7 +92,7 @@ the legal, educational, economical system is more close to China's mainland sinc
 
 ### China's propaganda
 
-Because I usually talk about my bad experiences in China, so relatively I have more praise words to the most developed countries in western world.
+Because I usually talk about my bad experiences in China, so relatively I have more praise words to the most developed countries in the western world.
 
 Then, a local girl described me as the one who thinks Overly idealistic view of the Western world " ..the grass is always greener on the other side".
 
@@ -109,6 +109,29 @@ these are typical of China's propaganda words. She has never been to China, she 
 Some people live in the western world, they have press free, saying free, but they don't have independent thinking and world view. they still believe Lies of Deception. what a pity!
 
 China's propaganda is really successful. 
+
+###  Leave away from Chinese social circle abroad
+
+中国人的问题，为何远离海外华人圈？
+
+作为华人，最重要的是，如果你想在海外有更好的发展，尤其是在发展中或落后国家，你必须远离大陆华人圈，因为已经分享太多原因，在此我不想更多评价中国人的普遍劣根性。  
+  
+有一种方法可以获得真相，请加入海外华人的各种聊天群，可以是 Telegram, Whatsapp, Wechat 等等，请听听里面刚离开大陆的中国人所经历的糟糕故事，他们如何在海外和中国大陆遭遇各种欺诈的，中国人是如何评价自己同胞的？  
+  
+总之，中国人在海外不敢欺压外国人，他们只敢欺压中国人。  
+  
+因此，这样会迫使更多聪明的中国人学习外语，远离大陆和海外的华人社交圈。  
+  
+Most importantly as a Chinese, if you want to have better development, in undeveloped countries abroad, you should leave away from the Chinese circle. I don’t want to share and comment on the other aspects of Personality defects and faults among most part of Chinese.  
+  
+One way to know the truth, please log in to any abroad Chinese chat group, such as Telegram, Whatsapp, Wechat, etc. what’s the comments to Chinese from Chinese? many Chinese immigrants would tell you their bad experience, it’s about how Chinese cheat and fraud other new comers from China.  
+  
+The Chinese do not dare to defraud other foreigners; they only dare to deal with the Chinese.  
+  
+So, they force more smart Chinese have to study foreign languages, and leave away from Chinese social circle abroad.  
+  
+  
+
 
 
 
