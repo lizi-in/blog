@@ -12,5 +12,5 @@ Doing IT and operation works, be committed to improving the QUALITY\(Safety, Eff
 
 Welcome message us.  
 Atom. x  
-info@lizi.in
+Atom.x@outlook.com
 
