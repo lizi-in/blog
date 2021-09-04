@@ -1,5 +1,7 @@
 # About
 
+I know my English level, it is under improving, I am not ashamed about it.
+
 We are a group of youth slashie, good flexibility, with Interdisciplinary professional background, can complete the ideal extraordinary mission.
 
 Doing IT and operation works, be committed to improving the QUALITY\(Safety, Efficiency, Health, Comfort, Environment-friendly, Culture&Creativity\) of projects, etc. Love remote work community of Geeks, Digital Nomads, and Distributed Autonomous Organizations.
