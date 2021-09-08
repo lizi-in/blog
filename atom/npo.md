@@ -45,7 +45,7 @@ b. 摘要报告: [https://quip.com/RXqaASdn65Nk](https://quip.com/RXqaASdn65Nk)
 c. 演示稿: [https://drive.google.com/open?id=1N4ng2wkU4QaR818fv9s8yAflpINPypbhj1L5pHEH7t4](https://drive.google.com/open?id=1N4ng2wkU4QaR818fv9s8yAflpINPypbhj1L5pHEH7t4)
 
 **相关项目：**  
-同期托管一家大型传统素食自助餐厅和纯素甜品烘焙店，辅助创始团队的管理运营优化，测试餐饮服务的业态升级和产品创新，参加植物基蛋白行业展会论坛，促进与Beyond meat、Just egg、Otly、Omnipork 等国际先驱在中国市场的业务合作推广。  
+同期托管一家大型传统素食自助餐厅和纯素甜品烘焙店，辅助创始团队的管理运营优化，测试餐饮服务的业态升级和产品创新，参加植物基蛋白行业展会论坛，促进与Beyond meat、Just egg、Otly、Omnipork 等国际头部公司在中国市场的业务合作推广。  
 
 
 
