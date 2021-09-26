@@ -16,7 +16,5 @@ Doing IT and operation works, be committed to improving the QUALITY\(Safety, Eff
 * Mission: Serving for [social enterprises](https://en.wikipedia.org/wiki/Social_enterprise) and public welfare.
 * Value: Science & Technology, Faith, Truth, Future-oriented.
 
-Welcome message us.  
-Atom  
 Atom.x@outlook.com
 
