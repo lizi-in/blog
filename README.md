@@ -4,6 +4,8 @@ description: 'Stop updating, shift to other blog platform since 2021.8'
 
 # About
 
+Tips: This blog has stopped updating, migrated to a new platform, and is only shared by the closed friends.
+
 I know my English level, it is under improving, I am not ashamed about it.
 
 We are a group of youth slashie, good flexibility, with Interdisciplinary professional background, can complete the ideal extraordinary mission.
