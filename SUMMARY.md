@@ -4,6 +4,3 @@
 
 ## career
 
-* [Dating is a good business](career/dating-is-a-good-business.md)
-* [log- draft](career/log-draft.md)
-
