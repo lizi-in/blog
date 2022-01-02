@@ -10,9 +10,9 @@
 
 好看的进口大片请搜索这些平台
 
-* [https://www.imdb.com/](https://www.imdb.com/)
-* [https://youtube.com](https://youtube.com/)
-* [https://www.netflix.com/](https://www.netflix.com/)
+* [https://www.imdb.com/](https://www.imdb.com)
+* [https://youtube.com](https://youtube.com)
+* [https://www.netflix.com/](https://www.netflix.com)
 
 在充斥着百度、腾讯、抖音之流的国产媒体和视频平台上，有思想的精品内容比例较少，以下推荐一些为数不多可以看的健康有益的内容。
 
@@ -24,15 +24,15 @@
 
 ### CC讲坛
 
-[http://ccjt.tv/](http://ccjt.tv/) 中国版的TED  
-CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于传播促进人与自然、人与社会和人与人和谐的创新思想。  
-愿景：社会更和谐，生活更美好   
-宗旨：创新引领未来，传播改变世界   
+[http://ccjt.tv/](http://ccjt.tv) 中国版的TED\
+CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于传播促进人与自然、人与社会和人与人和谐的创新思想。\
+愿景：社会更和谐，生活更美好 \
+宗旨：创新引领未来，传播改变世界 \
 使命：鼓励社会创新，传播创新思想，弘扬创新文化，提高创新能力
 
 
 
-### 环境系列：全球最佳纪录片 \| 带你认识真实的世界（2020版） <a id="activity-name"></a>
+### 环境系列：全球最佳纪录片 | 带你认识真实的世界（2020版） <a href="#activity-name" id="activity-name"></a>
 
 {% embed url="https://mp.weixin.qq.com/s/Q55tbspyWN-LSeRFdtaoSg" %}
 
@@ -40,15 +40,15 @@ CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于
 
 ### 冲浪普拉斯
 
-财经视频自媒体，爆这么多料，居然没有被屏蔽，还活得好好的，有实力。  
- [https://weibo.com/p/1005057339115129](https://weibo.com/p/1005057339115129)  
+财经视频自媒体，爆这么多料，居然没有被屏蔽，还活得好好的，有实力。\
+&#x20;[https://weibo.com/p/1005057339115129](https://weibo.com/p/1005057339115129)\
 
 
 
 
 ### 喜马拉雅
 
-[https://www.ximalaya.com/](https://www.ximalaya.com/)
+[https://www.ximalaya.com/](https://www.ximalaya.com)
 
 从听梁冬的《发现中医太美》、《东吴相对论》开始用喜马。音频节目好处非常多，内容有深度，不费眼睛，可以边走路坐车边听，不耗费额外的时间，所以我更推荐音频节目。
 
@@ -58,11 +58,11 @@ CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于
 
 ## 喜剧
 
-虎口脱险 La grande vadrouille \(1966\) [https://www.imdb.com/title/tt0060474](https://www.imdb.com/title/tt0060474)
+虎口脱险 La grande vadrouille (1966) [https://www.imdb.com/title/tt0060474](https://www.imdb.com/title/tt0060474)
 
-上帝也疯狂2 The Gods Must Be Crazy II \(1989\) [https://www.imdb.com/title/tt0097443](https://www.imdb.com/title/tt0097443)
+上帝也疯狂2 The Gods Must Be Crazy II (1989) [https://www.imdb.com/title/tt0097443](https://www.imdb.com/title/tt0097443)
 
-三个傻瓜 3 Idiots \(2009\) [https://www.imdb.com/title/tt1187043](https://www.imdb.com/title/tt1187043)
+三个傻瓜 3 Idiots (2009) [https://www.imdb.com/title/tt1187043](https://www.imdb.com/title/tt1187043)
 
 持续推荐 ……
 
@@ -70,7 +70,7 @@ CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于
 
 ### 《暴走大事件》
 
-[https://space.bilibili.com/883968](https://space.bilibili.com/883968)  
+[https://space.bilibili.com/883968](https://space.bilibili.com/883968)\
 嬉笑怒骂，满怀娱乐精神，针砭时弊，形式荒诞但不低俗，哗众取宠但不毫无底线，是一个有着新闻理想的节目，传递“正能量”的价值观，除此之外，最近10年，博主几乎没看过其他中文喜剧、讽刺、脱口秀类娱乐节目。
 
 ## 动画片
@@ -97,10 +97,8 @@ CC讲坛是北京君和创新公益基金会创办的公益性讲坛，致力于
 
 
 
-和君书单2020 \| 建设知识结构：企业家和投行家阅读书目单[https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA](https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA)  
+和君书单2020 | 建设知识结构：企业家和投行家阅读书目单[https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA](https://mp.weixin.qq.com/s/knyyUNiesFBm1e4q-jg5GA)\
 这个书单蛮好，但是维护不容易，展示形式如果通过amazon kindle，或豆瓣网会更好。
-
-
 
 
 

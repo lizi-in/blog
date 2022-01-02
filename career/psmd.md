@@ -1,8 +1,8 @@
 # PSMD是为脑机接口准备的
 
-**PSMD（Pivot Structure Modeling and Deploy）管理体系设计和实施**  
- PSMD培养共同体建模、部署人员，帮助适应分布式自治组织\( Distributed Autonomous Community\)的需要。它本身是开放、半自助的共同体。   
-[http://xuemen.github.io/PSMD/](http://xuemen.github.io/PSMD/)   
+**PSMD（Pivot Structure Modeling and Deploy）管理体系设计和实施**\
+**** PSMD培养共同体建模、部署人员，帮助适应分布式自治组织( Distributed Autonomous Community)的需要。它本身是开放、半自助的共同体。 \
+[http://xuemen.github.io/PSMD/](http://xuemen.github.io/PSMD/) \
 [https://github.com/xuemen/PSMD/blob/master/README.md](https://github.com/xuemen/PSMD/blob/master/README.md)
 
 以上是PSMD的简介，有人看得懂吗？为什么要提这个？从源头说起吧。
@@ -31,7 +31,7 @@ PSMD的简介采用了人类自然语言书写，似乎用了一些特别的语�
 
 好的事物如上帝普惠众生，圣经里说的“作光和盐”，而人们都意识不到其存在，也像空气和水一样，似乎免费或廉价，但是非常非常重要，这种人生状态被黄大仙在PSMD简介中定义为“关键生态位”，他奋斗目标就是要为全社会服务。
 
-所以没搞懂的同学不要急，可以看看他的博客与知乎，有许多网友提出非常刁钻的问题邀请他解答，答案很精彩且浅显易懂，通过现实问题的案例，由此可以理解PSMD到底是干啥用的。[http://blog.sina.com.cn/mars22](http://blog.sina.com.cn/mars22)  
+所以没搞懂的同学不要急，可以看看他的博客与知乎，有许多网友提出非常刁钻的问题邀请他解答，答案很精彩且浅显易懂，通过现实问题的案例，由此可以理解PSMD到底是干啥用的。[http://blog.sina.com.cn/mars22](http://blog.sina.com.cn/mars22)\
 [https://www.zhihu.com/people/huang-yong-gang](https://www.zhihu.com/people/huang-yong-gang)
 
 ### 无处实施
@@ -65,4 +65,3 @@ PSMD的创造者-- 黄老师，一直对我提出尖锐且刻薄的批评，我�
 7. 经常对找上门来咨询的老板发脾气，拍桌子让他们走人，直言不讳，宁可不赚那笔钱了；
 
 我所有的日志记录都力求描述客观事实，尽力对自己讲的每一句话认真负责 I try to take serious responsibility for any one of my words.
-

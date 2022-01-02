@@ -6,9 +6,8 @@
   * [经历：社会活动](atom/npo.md)
   * [总结：自我分析](atom/summary.md)
 
-## 人生经历 <a id="career"></a>
+## 人生经历 <a href="#career" id="career"></a>
 
-* [log日志临时草稿](career/log-draft.md)
 * [离去是新生的开始](career/left/README.md)
   * [为什么说都是跪着挣钱的？](career/left/why-sin.md)
   * [《莲师心咒日常简易修持方法》](career/left/padmasambhava.md)
@@ -67,11 +66,10 @@
 * [如何应对流氓的网络世界？](career/thugnet.md)
 * [沧浪书院：一个惊为天人的神奇之地](career/cang-lang-shu-yuan-yi-ge-jing-wei-tian-ren-de-di-fang.md)
 
-## 资源分享 <a id="share"></a>
+## 资源分享 <a href="#share" id="share"></a>
 
 * [萝卜规则是啥？能阻止人类吵架互相攻击？](share/robert-rules.md)
 * [软件工具库- 高效高质量的工作/ 学习/ 休闲装备](share/efficiency.md)
 * [图书/影片/学习资源推荐](share/film-share.md)
 * [餐饮方案- 食品采购清单](share/shi-pin-cai-gou-qing-dan.md)
 * [生活工作空间方案- LEC乐创客社区](share/lec-le-chuang-ke-she-qu.md)
-

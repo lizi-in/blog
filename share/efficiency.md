@@ -14,35 +14,35 @@ description: 持续更新中 upgrading  ……
 
 ## 语言
 
-母语  
+母语\
 至少要精通一种语言，即母语中文的正常书写，阅读，口述的要求，达到合格的中学毕业水平足够；
 
-英语  
+英语\
 听说读写能力不做要求，由于网页和语音翻译软件越来越好用，但作为必要的加分项，可以帮助看到外面的世界，扩大资讯量很多倍以上，高效工作的基础离不开熟练使用互联网搜索和英语阅读的资讯搜集能力；
 
 ## 学习
 
 ### **知识问答/ 百科**
 
-维基百科，全球排名第一百科网 [https://zh.wikipedia.org/](https://zh.wikipedia.org/)
+维基百科，全球排名第一百科网 [https://zh.wikipedia.org/](https://zh.wikipedia.org)
 
-Quora，全球第一知识问答网 [https://www.quora.com/](https://www.quora.com/)， 知乎和Quora很像，已经成为中文广告商的软广告平台，也是华文键盘侠最大的炫耀卖弄肤浅经验和错误“知识”的集散地。因为涉嫌干扰广告主和平台合作方的利益，不少网友提交的真实客观的经验和知识分享，被强制封锁屏蔽，知乎已经缺乏公正和客观，所以不推荐用。
+Quora，全球第一知识问答网 [https://www.quora.com/](https://www.quora.com)， 知乎和Quora很像，已经成为中文广告商的软广告平台，也是华文键盘侠最大的炫耀卖弄肤浅经验和错误“知识”的集散地。因为涉嫌干扰广告主和平台合作方的利益，不少网友提交的真实客观的经验和知识分享，被强制封锁屏蔽，知乎已经缺乏公正和客观，所以不推荐用。
 
 ### **Mooc**
 
-国际最顶尖名校的课程平台，在付费注册按钮边可以选择旁听，如果不拿学历证，一般学习都是免费的。[https://www.coursera.org](https://www.coursera.org/)。
+国际最顶尖名校的课程平台，在付费注册按钮边可以选择旁听，如果不拿学历证，一般学习都是免费的。[https://www.coursera.org](https://www.coursera.org)。
 
-出海搜一下能找到很多国外好的MOOC，例如[https://www.edx.org/](https://www.edx.org/)，[https://www.khanacademy.org/](https://www.khanacademy.org/)， coursera是我第一个用的，也是最常用的平台。
+出海搜一下能找到很多国外好的MOOC，例如[https://www.edx.org/](https://www.edx.org)，[https://www.khanacademy.org/](https://www.khanacademy.org)， coursera是我第一个用的，也是最常用的平台。
 
-类似的课程管理平台开发框架有：[https://www.sakailms.org/](https://www.sakailms.org/), [https://piazza.com/](https://piazza.com/)。
+类似的课程管理平台开发框架有：[https://www.sakailms.org/](https://www.sakailms.org), [https://piazza.com/](https://piazza.com)。
 
 ### **演讲**
 
-TED，科普讲座短视频。[http://www.ted.com](http://www.ted.com/)。
+TED，科普讲座短视频。[http://www.ted.com](http://www.ted.com)。
 
-PechaKucha，小TED，遵循 20秒/张 x 20张的演讲格式，起源于日本已经传播至全世界数百万参与者。 [https://www.pechakucha.com/](https://www.pechakucha.com/)
+PechaKucha，小TED，遵循 20秒/张 x 20张的演讲格式，起源于日本已经传播至全世界数百万参与者。 [https://www.pechakucha.com/](https://www.pechakucha.com)
 
-CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg](https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg)
+CC讲坛演讲指南| 如何做好一场有趣有思想的演讲 [https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg](https://mp.weixin.qq.com/s/jom6MiYWYqMDtNHtoQRsQg)
 
 ## 硬件和操作系统
 
@@ -63,12 +63,12 @@ CC讲坛演讲指南\| 如何做好一场有趣有思想的演讲 [https://mp.we
 
 私有云，NAS，软路由，交换机，VPN，家庭影音娱乐的综合解决方案，高效专业团队应该有一套自己的这种装备，有待补充；
 
-NAS [https://www.freenas.org/](https://www.freenas.org/)  
-群晖 [https://www.synology.com/zh-cn/support/nas\_selector](https://www.synology.com/zh-cn/support/nas_selector)
+NAS [https://www.freenas.org/](https://www.freenas.org)\
+群晖 [https://www.synology.com/zh-cn/support/nas\_selector](https://www.synology.com/zh-cn/support/nas\_selector)
 
 ### 其他
 
-电子书：墨水屏选用kindle，省去纸质版书，2019年最新版基础款500 - 600¥；  
+电子书：墨水屏选用kindle，省去纸质版书，2019年最新版基础款500 - 600¥；\
 画板：Wacom入门级，Ps神器，2018年最新版基础款400 - 500¥ ；
 
 ## 信息安全- 特别Tips
@@ -83,7 +83,7 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 **chrome.com，** 注册一个google账号，完美。
 
-**firefox.com 不是 firefox.com.cn** 否则可能会被挂满广告的网站默认首页，或可以下载[台湾的繁体版](https://www.mozilla.org/zh-TW/firefox/new/?redirect_source=firefox-com)。
+**firefox.com 不是 firefox.com.cn** 否则可能会被挂满广告的网站默认首页，或可以下载[台湾的繁体版](https://www.mozilla.org/zh-TW/firefox/new/?redirect\_source=firefox-com)。
 
 ## 搜索引擎
 
@@ -105,7 +105,7 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 **Teamviewer**，可跨平台，可惜是收费的，据说目前业界最好的远程工具，如果搞不定，就找人用它帮你操作。qq也自带了这一功能，但是屏幕动作不够流畅，经常卡死。
 
-**Anydesk** [https://anydesk.com](https://anydesk.com/)，个人版免费。
+**Anydesk** [https://anydesk.com](https://anydesk.com)，个人版免费。
 
 ## **聊天通讯**
 
@@ -121,26 +121,26 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ## **在线笔记保存**
 
-**Diigo**\(Digest of Internet Information, Groups and Other stuff\) [https://www.diigo.com/](https://www.diigo.com/) 是一款有力的资源搜索与管理工具,一个知识分享的平台。方便在网页做笔记，整理记录。
+**Diigo**(Digest of Internet Information, Groups and Other stuff) [https://www.diigo.com/](https://www.diigo.com) 是一款有力的资源搜索与管理工具,一个知识分享的平台。方便在网页做笔记，整理记录。
 
 ## **云存储**
 
-**Google drive** [https://drive.google.com](https://drive.google.com/)  
-具备网盘，各种类型文档的存储和协作功能； 
+**Google drive** [https://drive.google.com](https://drive.google.com)\
+具备网盘，各种类型文档的存储和协作功能；&#x20;
 
-**Wetransfer**  
-临时存储分享大型文件外链； [https://wetransfer.com/](https://wetransfer.com/)
+**Wetransfer**\
+临时存储分享大型文件外链； [https://wetransfer.com/](https://wetransfer.com)
 
-**Dropbox**个人应用开始  
-[https://www.dropbox.com/](https://www.dropbox.com/)
+**Dropbox**个人应用开始\
+[https://www.dropbox.com/](https://www.dropbox.com)
 
-**Box**企业级应用开始，支持大量公益组织  
-[https://www.box.org/](https://www.box.org/)
+**Box**企业级应用开始，支持大量公益组织\
+[https://www.box.org/](https://www.box.org)
 
-**Nextcloud** [https://nextcloud.com/](https://nextcloud.com/)  
+**Nextcloud** [https://nextcloud.com/](https://nextcloud.com)\
 开源免费的私有云存储网盘项目，快速便捷搭建一套属于自己或团队的云同步网盘，从而实现跨平台跨设备文件同步、共享、版本控制、团队协作等功能。
 
-**Wayback Machine** [https://archive.org/](https://archive.org/)  
+**Wayback Machine** [https://archive.org/](https://archive.org)****\
 ****用于保存网页的档案，类似搜索引擎的快照，如果静态页面被删除，以后还能找到
 
 ## **文件与远程协作**
@@ -149,9 +149,9 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 **有许多可选软件，例举一小部分：**
 
-**Google docs** [**https://docs.google.com**](https://docs.google.com/)，google drive 下的一款小工具，10多年前就已经成熟了，需要谷歌账号；
+**Google docs** [**https://docs.google.com**](https://docs.google.com)，google drive 下的一款小工具，10多年前就已经成熟了，需要谷歌账号；
 
-**Quip** [**https://quip.com/**](https://quip.com/) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，无需境外网络环境；
+**Quip** [**https://quip.com/**](https://quip.com) **，**我们最早做字幕组的时候用过的，数十人的团队，分布在10多个国家地区，从未见过面，一样很好滴完成高效率高质量的任务，无需境外网络环境；
 
 **Shimo，国产，在国外用起来不方便。**一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论，让你与他人轻松完成协作撰稿、方案讨论、会议记录和资料 ... [https://shimo.im/desktop](https://shimo.im/desktop)
 
@@ -159,9 +159,9 @@ NAS [https://www.freenas.org/](https://www.freenas.org/)
 
 ### **图片类**
 
-**Flickr** [https://www.flickr.com/](https://www.flickr.com/) 图片作品集保存与分享，或google drive
+**Flickr** [https://www.flickr.com/](https://www.flickr.com) 图片作品集保存与分享，或google drive
 
-**在线图片优化器** [https://ezgif.com/](https://ezgif.com/), 格式转换，压缩图片大小。通常上传网站的图片有大小限制以保证加载速度，**如果没必要使用高清大图，那么图片大小超过300k的建议进行优化。方法：将 png 等转 jpg, jpg 还可以继续压缩。**
+**在线图片优化器** [https://ezgif.com/](https://ezgif.com), 格式转换，压缩图片大小。通常上传网站的图片有大小限制以保证加载速度，**如果没必要使用高清大图，那么图片大小超过300k的建议进行优化。方法：将 png 等转 jpg, jpg 还可以继续压缩。**
 
 ### **视频/流媒体类**
 
@@ -185,27 +185,27 @@ YouTube，**后台 video studio 非常适合字幕编辑的在线协作**，无�
 
 有很多选择，根据需要在谷歌搜索
 
-ProcessOn [https://processon.com/diagrams](https://processon.com/diagrams) 免费在线作图，实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等，类似的还有 [creately.com](https://creately.com/)，[diagrams.net](https://app.diagrams.net/) 等等；
+ProcessOn [https://processon.com/diagrams](https://processon.com/diagrams) 免费在线作图，实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等，类似的还有 [creately.com](https://creately.com)，[diagrams.net](https://app.diagrams.net) 等等；
 
-前端美术：[figma.com](https://www.figma.com/)
+前端美术：[figma.com](https://www.figma.com)
 
-简易的Logo设计可以交由机器完成：[tailorbrands.com](https://studio.tailorbrands.com/)
+简易的Logo设计可以交由机器完成：[tailorbrands.com](https://studio.tailorbrands.com)
 
 ### **版本管理**
 
-github [https://github.com/](https://github.com/) 等，IT技术开发人员的必备工具，其他人使用需要学习git，但并不复杂。
+github [https://github.com/](https://github.com) 等，IT技术开发人员的必备工具，其他人使用需要学习git，但并不复杂。
 
 Git教程 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
 
-**Gitbook,** [**https://www.gitbook.com/**](https://www.gitbook.com/)  
+**Gitbook,** [**https://www.gitbook.com/**](https://www.gitbook.com)****\
 ****用于写日志和项目文档documentation，我将其用于写博客，比一般的博客系统简单多了，可以同步备份到github，防止文件丢失，方便多人团队协作同一份文档，功能非常强大。
 
 ## 组织管理
 
 ### **视频会议**
 
-ZOOM  
-Zoom是现代企业视频通讯领导者，拥有简易可靠的云端平台，可用于在移动设备、台式机、电话和会议室系统上召开视频和音频会议、展开协作、传递消息，以及举办网络研讨会。 [https://zoom.us](https://zoom.us/)
+ZOOM\
+Zoom是现代企业视频通讯领导者，拥有简易可靠的云端平台，可用于在移动设备、台式机、电话和会议室系统上召开视频和音频会议、展开协作、传递消息，以及举办网络研讨会。 [https://zoom.us](https://zoom.us)
 
 小匡的会议室 [https://zoom.us/j/5629166546](https://zoom.us/j/5629166546)
 
@@ -215,26 +215,25 @@ Zoom是现代企业视频通讯领导者，拥有简易可靠的云端平台，�
 
 ### 线上/线下研讨会
 
-Whova  
-会议多效率低成本高，从发送会议邀请信，注册付费，日程安排，分发资料，签到登记，社交群组，名片管理，流程管理，酒店/餐饮预订，报销凭证，全过程专业app。每个会议服务费1000 $ [https://whova.com/](https://whova.com/)
+Whova\
+会议多效率低成本高，从发送会议邀请信，注册付费，日程安排，分发资料，签到登记，社交群组，名片管理，流程管理，酒店/餐饮预订，报销凭证，全过程专业app。每个会议服务费1000 $ [https://whova.com/](https://whova.com)
 
-活动行  
-主要用于活动报名等活动前端服务，功能可以和Whova互补。 [https://www.huodongxing.com](https://www.huodongxing.com/)
+活动行\
+主要用于活动报名等活动前端服务，功能可以和Whova互补。 [https://www.huodongxing.com](https://www.huodongxing.com)
 
 ### **议事规则**
 
-开会方法，会议程序，推荐**罗伯特议事规则**，学习罗规的好处是，摒弃和人讨论交流时的坏习气，例如不讲规则，情绪化，主观，非理性，缺乏思维逻辑。将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中；其重要性可参考站内的其他文章：  
-从北大附中学生围攻鹿鸣说起  
+开会方法，会议程序，推荐**罗伯特议事规则**，学习罗规的好处是，摒弃和人讨论交流时的坏习气，例如不讲规则，情绪化，主观，非理性，缺乏思维逻辑。将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中；其重要性可参考站内的其他文章：\
+从北大附中学生围攻鹿鸣说起\
 萝卜规则是啥？能阻止人类吵架互相攻击？
 
-  
-**罗伯特议事规则**  
+\
+**罗伯特议事规则**\
 [https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%E8%AE%AE%E4%BA%8B%E8%A7%84%E5%88%99](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%E8%AE%AE%E4%BA%8B%E8%A7%84%E5%88%99)
 
-**议事专家- 孙万春老师**  
-[https://www.thepaper.cn/asktopic\_detail\_10001144](https://www.thepaper.cn/asktopic_detail_10001144)
+**议事专家- 孙万春老师**\
+[https://www.thepaper.cn/asktopic\_detail\_10001144](https://www.thepaper.cn/asktopic\_detail\_10001144)
 
-**议事工具- 议事通** [http://look365.net/](http://look365.net/) 注：2020.2.27日发现孙老师的平台中断服务了，现在被流氓广告占领。将软件架构在类似国产服务器和例如微信平台生态上面，那就是个渣，在微信开一个链接，导流量出来是可以的。
+**议事工具- 议事通** [http://look365.net/](http://look365.net) 注：2020.2.27日发现孙老师的平台中断服务了，现在被流氓广告占领。将软件架构在类似国产服务器和例如微信平台生态上面，那就是个渣，在微信开一个链接，导流量出来是可以的。
 
-**罗规学堂** [https://mp.weixin.qq.com/mp/profile\_ext?action=home&\_\_biz=MzI4MzkwNjYyNw==&scene=124\#wechat\_redirect](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4MzkwNjYyNw==&scene=124#wechat_redirect)
-
+**罗规学堂** [https://mp.weixin.qq.com/mp/profile\_ext?action=home&\_\_biz=MzI4MzkwNjYyNw==\&scene=124#wechat\_redirect](https://mp.weixin.qq.com/mp/profile\_ext?action=home&\_\_biz=MzI4MzkwNjYyNw==\&scene=124#wechat\_redirect)
