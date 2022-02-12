@@ -18,8 +18,6 @@ description: 2021.8.12
 
 小匡：如何应对流氓的网络世界？[https://atom-x.gitbook.io/li-blog/career/thugnet](https://atom-x.gitbook.io/li-blog/career/thugnet)
 
-耗子：为什么我不在微信公众号上写文章 [https://coolshell.cn/articles/17391.html](https://coolshell.cn/articles/17391.html)
-
 反对微信和中文媒体的声音的绝对数量是很多的，相对全部人口的比例是很少的，很多人根本不知道真实情况和发生了什么。能站出来说话的是极少数，反对的声音也仅仅少量存在于外网和自媒体上。大家很少在公开的报道中看到，因为中文媒体被他们操控，反对的声音早被屏蔽消失了，在现实中，这些人都是要被精神和肉体双重消灭的，所以，几乎看不到他们的存在。
 
 ### **周期数字**
